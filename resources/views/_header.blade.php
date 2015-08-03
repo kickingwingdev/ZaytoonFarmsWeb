@@ -11,6 +11,8 @@
                 Mon - Fri: 08.00 - 17.00
             </li>
         </ul>
+        <!--Search-->
+        <!--
         <div class="search-container">
             <a class="template-search" href="#" title="Search"></a>
             <form class="search" action="search.html">
@@ -20,7 +22,7 @@
                     <input type="submit" class="search-submit" value="">
                 </fieldset>
             </form>
-        </div>
+        </div>-->
         <ul class="social-icons">
             <li>
                 <a target="_blank" href="#" class="social-facebook" title="facebook"></a>
