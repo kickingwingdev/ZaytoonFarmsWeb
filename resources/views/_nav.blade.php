@@ -9,7 +9,7 @@
                 <span class="line"></span>
                 <span class="line"></span>
             </a>
-            <!--Nav-->
+            <!--NAV-->
             <div class="menu-container clearfix vertical-align-cell">
                 <nav>
                     <ul class="sf-menu">
