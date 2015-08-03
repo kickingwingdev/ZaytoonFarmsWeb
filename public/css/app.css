@@ -22,9 +22,16 @@ a {
 a:hover {
   text-decoration: underline; }
 
+img {
+  display: block;
+  transition: opacity 0s ease 0s;
+  opacity: 1;
+  max-width: 100%;
+  height: auto; }
+
 a img {
   display: block;
-  transition: opacity 0.3s ease 0s;
+  transition: opacity 0s ease 0s;
   opacity: 1;
   max-width: 100%;
   height: auto; }

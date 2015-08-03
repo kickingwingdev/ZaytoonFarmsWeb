@@ -14,3 +14,15 @@
 Route::get('/', function () {
     return view('pages.home');
 });
+
+Route::get('services', function () {
+	return view('pages.services');
+});
+
+Route::get('food-safety', function () {
+	return view('pages.food-safety');
+});
+
+Route::get('food-safety-01', function () {
+	return view('pages.food-safety-01');
+});

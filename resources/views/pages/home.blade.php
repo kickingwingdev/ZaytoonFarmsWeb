@@ -58,7 +58,7 @@
 	            </li>
 	        </ul>
 	        <div class="align-center margin-top-67 padding-bottom-87">
-	            <a class="more" href="/pages/services" title="VIEW ALL SERVICES">VIEW ALL SERVICES</a>
+	            <a class="more" href="/services" title="VIEW ALL SERVICES">VIEW ALL SERVICES</a>
 	        </div>
 	    </div>
 	</div>
@@ -124,7 +124,7 @@
 	        </li>
 	    </ul>
 	</div>
-	<div class="align-center margin-top-67 padding-bottom-87">
+	<div class="align-center margin-top-67">
 	    <a class="more" href="/pages/products" title="VIEW ALL SERVICES">VIEW ALL PRODUCTS</a>
 	</div>
 	<!--FEATURES-->

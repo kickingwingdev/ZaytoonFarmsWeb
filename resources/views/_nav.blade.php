@@ -13,20 +13,29 @@
             <div class="menu-container clearfix vertical-align-cell">
                 <nav>
                     <ul class="sf-menu">
-                        <li class="selected">
-                            <a href="index.html" title="Home">HOME</a>
+                        <li>
+                            <a href="/" title="Home">HOME</a>
                         </li>
                         <li>
-                            <a href="services.html" title="Services">SERVICES</a>
+                            <a href="/services" title="Services">SERVICES</a>
                             <ul>
                                 <li>
-                                    <a href="service-1.html" title="Service 1">Service 1</a>
+                                    <a href="/food-safety" title="Service 1">Food Safety</a>
                                 </li>
                                 <li>
-                                    <a href="service-2.html" title="Service 2">Service 2</a>
+                                    <a href="service-2.html" title="Service 2">Halaal</a>
                                 </li>
                                 <li>
-                                    <a href="service-3.html" title="Service 3">Service 3</a>
+                                    <a href="service-3.html" title="Service 3">Dispatch and Transport</a>
+                                </li>
+                                <li>
+                                    <a href="service-1.html" title="Service 1">Quality Control</a>
+                                </li>
+                                <li>
+                                    <a href="service-2.html" title="Service 2">Packaging</a>
+                                </li>
+                                <li>
+                                    <a href="service-3.html" title="Service 3">Custom Orders</a>
                                 </li>
                             </ul>
                         </li>
