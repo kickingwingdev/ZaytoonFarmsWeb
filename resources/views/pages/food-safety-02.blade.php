@@ -38,36 +38,39 @@
 	    <div class="column column-3-4">
 	        <div class="row padding-bottom-70">
 	            <div class="column-1-1">
-	                <h3 class="box-header">National Legislation</h3>
+	                <h3 class="box-header">SA National Standards</h3>
 	                <p class="description t1">Zaytoon Farms will strive to comply with the following standards and legislation.</p>
 	            </div>
 					<table class="margin-top-40">
 					    <tbody>
 					        <tr>
-					            <td>Meat Safety Act (40 of 2000)</td>
-					            <td>- R153 – Poultry Regulations</td>
+					            <td>SANS 10049:2012</td>
+					            <td>- Food Safety Management – Requirements for prerequisite programmes (PRP’s)</td>
 					        </tr>
 					        <tr>
-					            <td>Health Act (63 of 1977)</td>
-								<td>- R1809/1992 – Maximum limits for veterinary medicine and stock remedy residues that may be present in foodstuffs.
-								    <br>- R44/1999 – Amendment Maximum limits for veterinary medicine and stock remedy residues that may be present in foodstuffs.
-								</td>
+					            <td>SANS 241-1:2011</td>
+								<td>- Drinking water</td>
 					        </tr>
 					        <tr>
-					            <td>Agricultural Products Standards Act (119 of 1990)</td>
-					            <td>- R946 – Regulations regarding control over the sale of poultry meat.
-					            	<br>- R988 – Amendment Regulations regarding control over the sale of poultry meat.
-					            </td>
+					            <td>SANS 241-2:2011</td>
+					            <td>- Drinking water</td>
 					        </tr>
 					        <tr>
-					            <td>Food Stuffs, Cosmetics andDisinfectants Act (54 of 1972)</td>
-					            <td>- R908 – Regulations relating to the application of a Hazard Analysis and Critical Control Point system.
-					            <br>- R962 - Regulations governing general hygiene requirements for food premises and the transport of food.
-					            <br>- R1387 – Level of Antibiotics in foodstuffs.
-					            <br>- R313 – Regulations governing tolerances for funges-produced toxins in foodstuff.
-					            <br>- R146 – Regulations relating to the labelling and advertising of foodstuffs.
-					            <br>- R692 - Regulations governing microbiological standards for foodstuffs and related matters.
-					            <br>- R965 – Regulating relating to preservatives and antioxidants.</td>
+					            <td>SANS 10330:2007</td>
+					            <td>- Requirements for a Hazard Analysis and Critical Control Point (HACCP) system</td>
+					        </tr>
+					        <tr>
+					            <td>SANS5763:2006</td>
+					            <td>- Efficacy of cleaning plant, equipment and utensils: swab technique</td>
+					        </tr>
+							<tr>
+					            <td>ANS 14159:2006</td>
+					            <td>- Safety of machinery – Hygiene requirements for the design of machinery</td>
+					        </tr>
+					        <tr>
+					            <td><em>Other Standards</em></td>
+					            <td>- Global Food Safety Initiative Edition six
+					            <br>- SAPA Code of Practise 2011</td>
 					        </tr>
 					    </tbody>
 					</table>

@@ -15,12 +15,12 @@
         <div class="column column-1-4">
             <h6 class="box-header">Our Services</h6>
             <ul class="list margin-top-20">
-                <li class="template-bullet">Service 1</li>
-                <li class="template-bullet">Service 2</li>
-                <li class="template-bullet">Service 3</li>
-                <li class="template-bullet">Service 4</li>
-                <li class="template-bullet">Service 5</li>
-                <li class="template-bullet">Service 6</li>
+                <li class="template-bullet">Food Safety</li>
+                <li class="template-bullet">Halaal</li>
+                <li class="template-bullet">Dispatch and Transport</li>
+                <li class="template-bullet">Quality Control</li>
+                <li class="template-bullet">Packaging</li>
+                <li class="template-bullet">Custom Orders</li>
             </ul>
         </div>
         <div class="column column-1-4">

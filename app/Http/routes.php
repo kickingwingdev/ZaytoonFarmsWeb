@@ -11,18 +11,9 @@
 |
 */
 
-Route::get('/', function () {
-    return view('pages.home');
-});
-
-Route::get('services', function () {
-	return view('pages.services');
-});
-
-Route::get('food-safety', function () {
-	return view('pages.food-safety');
-});
-
-Route::get('food-safety-01', function () {
-	return view('pages.food-safety-01');
-});
+get('/', 'PagesController@home');
+get('services', 'PagesController@services');
+get('food-safety', 'PagesController@serviceFoodSafety');
+get('food-safety-01', 'PagesController@serviceFoodSafety01');
+get('food-safety-02', 'PagesController@serviceFoodSafety02');
+get('halaal', 'PagesController@serviceHalaal');
