@@ -26,16 +26,16 @@
         <div class="column column-1-4">
             <h6 class="box-header">Categories</h6>
             <ul class="taxonomies margin-top-30">
-                <li><a href="category.html" title="CHICKEN">CHICKEN</a></li>
-                <li><a href="category.html" title="DELIVERY">DELIVERY</a></li>
-                <li><a href="category.html" title="ECO">ECO</a></li>
-                <li><a href="category.html" title="PACKAGING">PACKAGING</a></li>
-                <li><a href="category.html" title="FLAVOURS">FLAVOURS</a></li>
-                <li><a href="category.html" title="PROCESSING">PROCESSING</a></li>
-                <li><a href="category.html" title="BREEDING">BREEDING</a></li>
-                <li><a href="category.html" title="LIFECYCLE">LIFECYCLE</a></li>
-                <li><a href="category.html" title="FREE RANGE">FREE RANGE</a></li>
-                <li><a href="category.html" title="COMMUNITY">COMMUNITY</a></li>
+                <li><a href="#" title="CHICKEN">CHICKEN</a></li>
+                <li><a href="#" title="DELIVERY">DELIVERY</a></li>
+                <li><a href="#" title="ECO">ECO</a></li>
+                <li><a href="#" title="PACKAGING">PACKAGING</a></li>
+                <li><a href="#" title="FLAVOURS">FLAVOURS</a></li>
+                <li><a href="#" title="PROCESSING">PROCESSING</a></li>
+                <li><a href="#" title="BREEDING">BREEDING</a></li>
+                <li><a href="#" title="LIFECYCLE">LIFECYCLE</a></li>
+                <li><a href="#" title="FREE RANGE">FREE RANGE</a></li>
+                <li><a href="#" title="COMMUNITY">COMMUNITY</a></li>
             </ul>
         </div>
         <div class="column column-1-4">

@@ -166,7 +166,7 @@
 	        </div>
 	    </div>
 	</div>
-	<!--CONTACT FOOTER-->
+	<!--CONTACT BANNER-->
 	<div class="row yellow full-width padding-top-bottom-30">
 	    <div class="row">
 	        <div class="column column-1-3">

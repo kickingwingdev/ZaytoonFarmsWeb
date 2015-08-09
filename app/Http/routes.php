@@ -17,3 +17,5 @@ get('food-safety', 'PagesController@serviceFoodSafety');
 get('food-safety-01', 'PagesController@serviceFoodSafety01');
 get('food-safety-02', 'PagesController@serviceFoodSafety02');
 get('halaal', 'PagesController@serviceHalaal');
+get('dispatch-and-transport', 'PagesController@serviceDispatchAndTransport');
+get('quality-control', 'PagesController@serviceQualityControl');

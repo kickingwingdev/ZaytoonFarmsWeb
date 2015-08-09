@@ -11,31 +11,31 @@
 	<div class="row">
 	    <ul class="services-list clearfix padding-top-70">
 	        <li>
-	            <a href="/food-safety" title="Service 1">
+	            <a href="/food-safety" title="Food Safety">
 	                <img src="images/samples/390x260/small-sample-01.jpg" alt="">
 	            </a>
-	            <h4 class="box-header"><a href="/food-safety" title="Service 1">FOOD SAFETY</a></h4>
+	            <h4 class="box-header"><a href="/food-safety" title="Food Safety">FOOD SAFETY</a></h4>
 	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, soluta!</p
 	        </li>
 	        <li>
-	            <a href="service-1.html" title="Service 2">
+	            <a href="/halaal" title="Halaal">
 	                <img src="images/samples/390x260/small-sample-02.jpg" alt="">
 	            </a>
-	            <h4 class="box-header"><a href="service-1.html" title="Service 2">HALAAL</a></h4>
+	            <h4 class="box-header"><a href="/halaal" title="Halaal">HALAAL</a></h4>
 	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, explicabo.</p
 	        </li>
 	        <li>
-	            <a href="service-1.html" title="Service 3">
+	            <a href="/dispatch-and-transport" title="Dispatch and Transport">
 	                <img src="images/samples/390x260/small-sample-03.jpg" alt="">
 	            </a>
-	            <h4 class="box-header"><a href="service-1.html" title="Service 3">DISPATCH AND TRANSPORT</a></h4>
+	            <h4 class="box-header"><a href="/dispatch-and-transport" title="Dispatch and Transport">DISPATCH AND TRANSPORT</a></h4>
 	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, commodi!</p
 	        </li>
 	        <li>
-	            <a href="service-1.html" title="Service 4">
+	            <a href="/quality-control" title="Quality Control">
 	                <img src="images/samples/390x260/small-sample-03.jpg" alt="">
 	            </a>
-	            <h4 class="box-header"><a href="service-1.html" title="Service 4">QUALITY CONTROL</a></h4>
+	            <h4 class="box-header"><a href="/quality-control" title="Quality Control">QUALITY CONTROL</a></h4>
 	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, itaque.</p>
 	        </li>
 	        <li>
@@ -55,7 +55,7 @@
 	    </ul>
 	</div>
 	<br>
-	<!--CONTACT FOOTER-->
+	<!--CONTACT BANNER-->
 	<div class="row yellow full-width padding-top-bottom-30">
 	    <div class="row">
 	        <div class="column column-1-3">

@@ -20,16 +20,16 @@
                             <a href="/services" title="Services">SERVICES</a>
                             <ul>
                                 <li>
-                                    <a href="/food-safety" title="Service 1">Food Safety</a>
+                                    <a href="/food-safety" title="Food Safety">Food Safety</a>
                                 </li>
                                 <li>
-                                    <a href="service-2.html" title="Service 2">Halaal</a>
+                                    <a href="/halaal" title="Halaal">Halaal</a>
                                 </li>
                                 <li>
-                                    <a href="service-3.html" title="Service 3">Dispatch and Transport</a>
+                                    <a href="/dispatch-and-transport" title="Dispatch and Transport">Dispatch and Transport</a>
                                 </li>
                                 <li>
-                                    <a href="service-1.html" title="Service 1">Quality Control</a>
+                                    <a href="/quality-control" title="Quality Control">Quality Control</a>
                                 </li>
                                 <li>
                                     <a href="service-2.html" title="Service 2">Packaging</a>
@@ -53,7 +53,7 @@
                         </li>
                     </ul>
                 </nav>
-                <!--Mobile Nav-->
+                <!--MOBILE NAV-->
                 <div class="mobile-menu-container">
                     <div class="mobile-menu-divider"></div>
                     <nav>

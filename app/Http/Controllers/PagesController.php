@@ -38,4 +38,14 @@ class PagesController extends Controller
     {
         return view('pages.halaal');
     }
+
+    public function serviceDispatchAndTransport()
+    {
+        return view('pages.dispatch-and-transport');
+    }
+
+    public function serviceQualityControl()
+    {
+        return view('pages.quality-control');
+    }
 }

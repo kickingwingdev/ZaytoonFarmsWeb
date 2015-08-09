@@ -6,7 +6,7 @@
 
 	<div class="theme-page">
 	<div class="clearfix">
-	<!--FOOD SAFETY-->
+	<!--PAGE CONTENT-->
 	<div class="row margin-top-70">
 	    <div class="column column-1-4">
 	        <ul class="vertical-menu">
@@ -98,8 +98,8 @@
 	        </div>
 	    </div>
 	</div>
-	<!--FOOD SAFETY END-->
-		<div class="row yellow full-width padding-top-bottom-30">
+	<!--CONTACT BANNER-->
+	<div class="row yellow full-width padding-top-bottom-30">
 	    <div class="row">
 	        <div class="column column-1-3">
 	            <ul class="contact-details-list">

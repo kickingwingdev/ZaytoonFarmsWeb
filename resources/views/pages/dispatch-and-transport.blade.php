@@ -9,23 +9,9 @@
 	<!--PAGE CONTENT-->
 	<div class="row margin-top-70">
 	    <div class="column column-1-4">
-	        <ul class="vertical-menu">
-	            <li>
-	                <a href="/food-safety-01" title="Feature 1">
-	                                        National Legislation
-	                                        <span class="template-arrow-menu"></span>
-	                                    </a>
-	            </li>
-	            <li>
-	                <a href="/food-safety-02" title="SA National Standards">
-	                                        SA National Standards
-	                                        <span class="template-arrow-menu"></span>
-	                                    </a>
-	            </li>
-	        </ul>
-	        <div class="call-to-action sl-small-bubble page-margin-top">
+	        <div class="call-to-action sl-small-bubble">
 	            <h4>Contact Us</h4>
-	            <p class="description t1">Contact us for more info on any of our services.</p>
+	            <p class="description t1">Contact us for more info on any of our services or features</p>
 	            <a class="more" href="contact.html" title="REQUEST A QUOTE">CONTACT</a>
 	        </div>
 	        <h6 class="box-header page-margin-top">Download Brochure</h6>
@@ -36,45 +22,22 @@
 	        </ul>
 	    </div>
 	    <div class="column column-3-4">
-	        <div class="row padding-bottom-70">
-	            <div class="column-1-1">
-	                <h3 class="box-header">SA National Standards</h3>
-	                <p class="description t1">Zaytoon Farms will strive to comply with the following standards and legislation.</p>
+	        <div class="row">
+	            <div class="column column-1-2">
+					<img src='images/samples/480x320/small-sample-05.jpg' alt='img'>
 	            </div>
-					<table class="margin-top-40">
-					    <tbody>
-					        <tr>
-					            <td>SANS 10049:2012</td>
-					            <td>- Food Safety Management – Requirements for prerequisite programmes (PRP’s)</td>
-					        </tr>
-					        <tr>
-					            <td>SANS 241-1:2011</td>
-								<td>- Drinking water</td>
-					        </tr>
-					        <tr>
-					            <td>SANS 241-2:2011</td>
-					            <td>- Drinking water</td>
-					        </tr>
-					        <tr>
-					            <td>SANS 10330:2007</td>
-					            <td>- Requirements for a Hazard Analysis and Critical Control Point (HACCP) system</td>
-					        </tr>
-					        <tr>
-					            <td>SANS5763:2006</td>
-					            <td>- Efficacy of cleaning plant, equipment and utensils: swab technique</td>
-					        </tr>
-							<tr>
-					            <td>ANS 14159:2006</td>
-					            <td>- Safety of machinery – Hygiene requirements for the design of machinery</td>
-					        </tr>
-					        <tr>
-					            <td><em>Other Standards</em></td>
-					            <td>- Global Food Safety Initiative Edition six
-					            <br>- SAPA Code of Practise 2011</td>
-					        </tr>
-					    </tbody>
-					</table>
-
+	            <div class="column column-1-2">
+					<img src='images/samples/480x320/small-sample-06.jpg' alt='img'>
+	            </div>
+	        </div>
+	        <div class="row page-margin-top padding-bottom-70">
+	            <div class="column-1-1">
+	                <h3 class="box-header">DISPATCH AND TRANSPORT</h3>
+	                <p class="description t1">Zaytoon will adhere to legislation according to R962 that provides the guidelines for the dispatch and transport of products. This will ensure that the food safety process and product quality is not compromised in any way. A despatch checklist is created and will be completed for every delivery to ensure compliance in all the required issues at hand.</p>
+	                <p class="description t1">All inbound vehicles for deliveries will be inspected for cleanliness and roadworthiness. No open delivery vehicles will be permitted as meat is not permitted to be delivered in direct sunlight.</p>
+	                <p class="description t1">All vehicles will be closed body trucks fitted with refrigeration units.</p>
+	                <p class="description t1">All deliveries vehicles will have to be rain and dust proof.</p>
+	            </div>
 	        </div>
 	        <div class="row page-margin-top padding-bottom-50">
 	            <div class="column column-1-2">
@@ -151,6 +114,7 @@
 	        </div>
 	    </div>
 	</div>
+
 	</div>
 	</div>
 

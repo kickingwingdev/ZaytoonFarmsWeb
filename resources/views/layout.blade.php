@@ -8,11 +8,11 @@
     <meta name="keywords" content="Zaytoon, Chicken, Nelspruit">
     <meta name="description" content="Zaytoon Farms">
     <title>Zaytoon Farms</title>
-    <!--Slider-->
+    <!--SLIDER-->
     <link rel="stylesheet" type="text/css" href="plugins/rs-plugin/css/settings.css">
-    <!--Fonts-->
+    <!--FONTS-->
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:100,300,400,500,600,700,900">
-    <!--Stylesheets-->
+    <!--STYLESHEETS-->
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/superfish.css">
     <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
@@ -21,7 +21,7 @@
     <link rel="stylesheet" type="text/css" href="css/animations.css">
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
     <link rel="stylesheet" type="text/css" href="css/odometer-theme-default.css">
-    <!--Font Stylesheets-->
+    <!--FONT STYLESHEETS-->
     <link rel="stylesheet" type="text/css" href="fonts/streamline-small/styles.css">
     <link rel="stylesheet" type="text/css" href="fonts/streamline-large/styles.css">
     <link rel="stylesheet" type="text/css" href="fonts/template/styles.css">
@@ -32,10 +32,10 @@
     <div class="site-container">
         @yield('content')
     </div>
-    <!--Scripts-->
+    <!--SCRIPTS-->
     <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
     <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
-    <!--Scripts-->
+    <!--SCRIPTS-->
     <script type="text/javascript" src="plugins/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
     <script type="text/javascript" src="plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
     <script type="text/javascript" src="js/jquery.ba-bbq.min.js"></script>
