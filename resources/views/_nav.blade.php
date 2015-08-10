@@ -32,10 +32,10 @@
                                     <a href="/quality-control" title="Quality Control">Quality Control</a>
                                 </li>
                                 <li>
-                                    <a href="service-2.html" title="Service 2">Packaging</a>
+                                    <a href="/packaging" title="Packaging">Packaging</a>
                                 </li>
                                 <li>
-                                    <a href="service-3.html" title="Service 3">Custom Orders</a>
+                                    <a href="/custom-orders" title="Custom Orders">Custom Orders</a>
                                 </li>
                             </ul>
                         </li>

@@ -48,4 +48,14 @@ class PagesController extends Controller
     {
         return view('pages.quality-control');
     }
+
+    public function servicePackaging()
+    {
+        return view('pages.packaging');
+    }
+
+    public function serviceCustomOrders()
+    {
+        return view('pages.custom-orders');
+    }
 }

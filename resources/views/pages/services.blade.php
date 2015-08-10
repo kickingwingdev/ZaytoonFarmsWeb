@@ -39,17 +39,17 @@
 	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, itaque.</p>
 	        </li>
 	        <li>
-	            <a href="service-1.html" title="Service 5">
+	            <a href="/packaging" title="Packaging">
 	                <img src="images/samples/390x260/small-sample-02.jpg" alt="">
 	            </a>
-	            <h4 class="box-header"><a href="service-1.html" title="Service 5">PACKAGING</a></h4>
+	            <h4 class="box-header"><a href="/packaging" title="Packaging">PACKAGING</a></h4>
 	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, cum.</p>
 	        </li>
 	        <li>
-	            <a href="service-1.html" title="Service 6">
+	            <a href="/custom-orders" title="Custom Orders">
 	                <img src="images/samples/390x260/small-sample-01.jpg" alt="">
 	            </a>
-	            <h4 class="box-header"><a href="service-1.html" title="Service 6">CUSTOM ORDERS</a></h4>
+	            <h4 class="box-header"><a href="/custom-orders" title="Custom Orders">CUSTOM ORDERS</a></h4>
 	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, facere.</p>
 	        </li>
 	    </ul>

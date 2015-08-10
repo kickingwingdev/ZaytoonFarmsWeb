@@ -36,24 +36,24 @@
 	        <p class="description align-center">Zaytoon Farms offer a myriad of services for our clients and customers. Our focus is on delivering only the highest levels of quality in everything we do.</p>
 	        <ul class="services-list clearfix page-margin-top">
 	            <li>
-	                <a href="#" title="Free Range Farming">
+	                <a href="/food-safety" title="Food Safety">
 	                    <img src="images/samples/390x260/small-sample-01.jpg" alt="">
 	                </a>
-	                <h4 class="box-header"><a href="#" title="Free Range Farming">FOOD SAFETY</a></h4>
+	                <h4 class="box-header"><a href="/food-safety" title="Food Safety">FOOD SAFETY</a></h4>
 	                <p>We are commited to ensuring all food safety and quality of products supplied.</p>
 	            </li>
 	            <li>
-	                <a href="#" title="Lifecycle Farming">
+	                <a href="/halaal" title="Halaal">
 	                    <img src="images/samples/390x260/small-sample-02.jpg" alt="">
 	                </a>
-	                <h4 class="box-header"><a href="#" title="Lifecycle Farming">HALAAL</a></h4>
+	                <h4 class="box-header"><a href="/halaal" title="Halaal">HALAAL</a></h4>
 	                <p>We are commited to ensure that all products slaughtered are fully Halaal.</p>
 	            </li>
 	            <li>
-	                <a href="#" title="Sustainable Processing">
+	                <a href="/dispatch-and-transport" title="Dispatch and Transport">
 	                    <img src="images/samples/390x260/small-sample-03.jpg" alt="">
 	                </a>
-	                <h4 class="box-header"><a href="#" title="Sustainable Processing">DISPATCH AND TRANSPORT</a></h4>
+	                <h4 class="box-header"><a href="/dispatch-and-transport" title="Dispatch and Transport">DISPATCH AND TRANSPORT</a></h4>
 	                <p>We adhere to strict guidlines in delivering our products safely and efficiently.</p>
 	            </li>
 	        </ul>
