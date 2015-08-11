@@ -58,4 +58,19 @@ class PagesController extends Controller
     {
         return view('pages.custom-orders');
     }
+
+    public function about()
+    {
+        return view('pages.about');
+    }
+
+    public function news()
+    {
+        return view('pages.news');
+    }
+
+    public function products()
+    {
+        return view('pages.products');
+    }
 }

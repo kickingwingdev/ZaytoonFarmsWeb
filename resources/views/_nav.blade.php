@@ -17,7 +17,7 @@
                             <a href="/" title="Home">HOME</a>
                         </li>
                         <li>
-                            <a href="/services" title="Services">SERVICES</a>
+                            <a href="/services" title="Services">SERVICES AND INFO</a>
                             <ul>
                                 <li>
                                     <a href="/food-safety" title="Food Safety">Food Safety</a>
@@ -40,16 +40,16 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="products.html" title="Products">PRODUCTS</a>
+                            <a href="/products" title="Products">PRODUCTS</a>
                         </li>
                         <li>
-                            <a href="about.html" title="About Us">ABOUT US</a>
+                            <a href="/about" title="About Us">ABOUT US</a>
                         </li>
                         <li>
-                            <a href="news.html" title="News">NEWS</a>
+                            <a href="#" title="News">NEWS</a>
                         </li>
                         <li>
-                            <a href="contact.html" title="Contact">CONTACT</a>
+                            <a href="/contact" title="Contact">CONTACT</a>
                         </li>
                     </ul>
                 </nav>
@@ -58,34 +58,43 @@
                     <div class="mobile-menu-divider"></div>
                     <nav>
                         <ul class="mobile-menu">
-                            <li class="selected">
-                                <a href="index.html" title="Home">HOME</a>
+                            <li>
+                                <a href="/" title="Home">HOME</a>
                             </li>
                             <li>
-                                <a href="services.html" title="Services">SERVICES</a>
+                                <a href="/services" title="Services">SERVICES AND INFO</a>
                                 <ul>
                                     <li>
-                                        <a href="service-1.html" title="Service 1">Service 1</a>
+                                        <a href="/food-safety" title="Food Safety">Food Safety</a>
                                     </li>
                                     <li>
-                                        <a href="service-2.html" title="Service 2">Service 2</a>
+                                        <a href="/halaal" title="Halaal">Halaal</a>
                                     </li>
                                     <li>
-                                        <a href="service-3.html" title="Service-3">Service 3</a>
+                                        <a href="/dispatch-and-transport" title="Dispatch and Transport">Dispatch and Transport</a>
+                                    </li>
+                                    <li>
+                                        <a href="/quality-control" title="Quality Control">Quality Control</a>
+                                    </li>
+                                    <li>
+                                        <a href="/packaging" title="Packaging">Packaging</a>
+                                    </li>
+                                    <li>
+                                        <a href="/custom-orders" title="Custom Orders">Custom Orders</a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="products.html" title="Products">PRODUCTS</a>
+                                <a href="/products" title="Products">PRODUCTS</a>
                             </li>
                             <li>
-                                <a href="about.html" title="About Us">ABOUT US</a>
+                                <a href="/about" title="About Us">ABOUT US</a>
                             </li>
                             <li>
-                                <a href="news.html" title="News">NEWS</a>
+                                <a href="#" title="News">NEWS</a>
                             </li>
                             <li>
-                                <a href="contact.html" title="Contact">CONTACT</a>
+                                <a href="/contact" title="Contact">CONTACT</a>
                             </li>
                         </ul>
                     </nav>

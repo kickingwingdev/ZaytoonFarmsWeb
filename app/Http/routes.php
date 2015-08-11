@@ -12,8 +12,11 @@
 */
 
 get('/', 'PagesController@home');
-get('about', 'PagesController@about');
 get('services', 'PagesController@services');
+get('products', 'PagesController@products');
+get('about', 'PagesController@about');
+get('news', 'PagesController@news');
+
 
 get('food-safety', 'PagesController@serviceFoodSafety');
 get('food-safety-01', 'PagesController@serviceFoodSafety01');
@@ -23,4 +26,8 @@ get('dispatch-and-transport', 'PagesController@serviceDispatchAndTransport');
 get('quality-control', 'PagesController@serviceQualityControl');
 get('packaging', 'PagesController@servicePackaging');
 get('custom-orders', 'PagesController@serviceCustomOrders');
+
+
+
+
 

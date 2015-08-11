@@ -32,7 +32,7 @@
 	<!--SERVICES-->
 	<div class="row full-width gray page-padding-top-section">
 	    <div class="row">
-	        <h2 class="box-header">OUR SERVICES</h2>
+	        <h2 class="box-header">SERVICES AND INFO</h2>
 	        <p class="description align-center">Zaytoon Farms offer a myriad of services for our clients and customers. Our focus is on delivering only the highest levels of quality in everything we do.</p>
 	        <ul class="services-list clearfix page-margin-top">
 	            <li>
@@ -58,7 +58,7 @@
 	            </li>
 	        </ul>
 	        <div class="align-center margin-top-67 padding-bottom-87">
-	            <a class="more" href="/services" title="VIEW ALL SERVICES">VIEW ALL SERVICES</a>
+	            <a class="more" href="/services" title="VIEW ALL SERVICES">VIEW MORE INFO</a>
 	        </div>
 	    </div>
 	</div>
@@ -153,15 +153,15 @@
 	            </ul>
 	            <div id="we-offer">
 	                <h4 class="box-header">PERSONAL SERVICE</h4>
-	                <p>'PLACEHOLDER'</p>
+	                <p>At Zaytoon we pride ourselves on our ability to provide a personalised service and catering to your specific needs.</p>
 	            </div>
 	            <div id="we-guarantee">
 	                <h4 class="box-header">HIGH QUALITY</h4>
-	                <p>'PLACEHOLDER'</p>
+	                <p>We deliver only the highest quality chicken products that adhere to the most stringent health and safety regulations.</p>
 	            </div>
 	            <div id="we-provide">
-	                <h4 class="box-header">CUSTOM ORDERS</h4>
-	                <p>'PLACEHOLDER'</p>
+	                <h4 class="box-header">TRANSPORT AND DELIVERY</h4>
+	                <p>We provide timely delivery to ensure that you receive your products fresh and on time.</p>
 	            </div>
 	        </div>
 	    </div>
