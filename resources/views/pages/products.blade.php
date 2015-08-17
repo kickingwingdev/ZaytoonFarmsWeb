@@ -18,170 +18,170 @@
 	    </ul>
 	    <ul class="projects-list isotope">
 	        <li class="retail">
-	            <a href="fresh-retail-whole-bird.html" title="Fresh Retail Whole Bird">
+	            <a href="/fresh-retail-whole-bird" title="Fresh Retail Whole Bird">
 	                <img src="images/samples/270x180/fresh-retail-whole-bird-sm.jpg" alt="Fresh Retail Whole Bird">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Whole Bird</p>
-	                        <a class="more simple" href="fresh-retail-whole-bird.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-whole-bird" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-drum-6.html" title="Fresh Retail Drum 6">
+	            <a href="/fresh-retail-drum-6" title="Fresh Retail Drum 6">
 	                <img src="images/samples/270x180/fresh-retail-drum-6-sm.jpg" alt="Fresh Retail Drum 6">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Drum 6</p>
-	                        <a class="more simple" href="fresh-retail-drum-6.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-drum-6" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-drum-10.html" title="Fresh Retail Drum 10">
+	            <a href="/fresh-retail-drum-10" title="Fresh Retail Drum 10">
 	                <img src="images/samples/270x180/fresh-retail-drum-10-sm.jpg" alt="Fresh Retail Drum 10">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Drum 10</p>
-	                        <a class="more simple" href="fresh-retail-drum-10.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-drum-10" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-thigh-4.html" title="Fresh Retail Thigh 4">
+	            <a href="/fresh-retail-thigh-4" title="Fresh Retail Thigh 4">
 	                <img src="images/samples/270x180/fresh-retail-thigh-4-sm.jpg" alt="Fresh Retail Thigh 4">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Thigh 4</p>
-	                        <a class="more simple" href="fresh-retail-thigh-4.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-thigh-4" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-thigh-6.html" title="Fresh Retail Thigh 6">
+	            <a href="/fresh-retail-thigh-6" title="Fresh Retail Thigh 6">
 	                <img src="images/samples/270x180/fresh-retail-thigh-6-sm.jpg" alt="Fresh Retail Thigh 6">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Thigh 6</p>
-	                        <a class="more simple" href="fresh-retail-thigh-6.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-thigh-6" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-fillet-4.html" title="Fresh Retail Fillet 4">
+	            <a href="/fresh-retail-fillet-4" title="Fresh Retail Fillet 4">
 	                <img src="images/samples/270x180/fresh-retail-fillet-4-sm.jpg" alt="Fresh Retail Fillet 4">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Fillet 4</p>
-	                        <a class="more simple" href="fresh-retail-fillet-4.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-fillet-4" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-fillet-10.html" title="Fresh Retail Fillet 10">
+	            <a href="/fresh-retail-fillet-10" title="Fresh Retail Fillet 10">
 	                <img src="images/samples/270x180/fresh-retail-fillet-10-sm.jpg" alt="Fresh Retail Fillet 10">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Fillet 10</p>
-	                        <a class="more simple" href="fresh-retail-fillet-10.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-fillet-10" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-wing-6.html" title="Fresh Retail Wing 6">
+	            <a href="/fresh-retail-wing-6" title="Fresh Retail Wing 6">
 	                <img src="images/samples/270x180/fresh-retail-wing-6-sm.jpg" alt="Fresh Retail Wing 6">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Wing 6</p>
-	                        <a class="more simple" href="fresh-retail-wing-6.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-wing-6" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-wing-12.html" title="Fresh Retail Wing 12">
+	            <a href="/fresh-retail-wing-12" title="Fresh Retail Wing 12">
 	                <img src="images/samples/270x180/fresh-retail-wing-12-sm.jpg" alt="Fresh Retail Wing 12">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Wing 12</p>
-	                        <a class="more simple" href="fresh-retail-wing-12.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-wing-12" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-leg-quarter.html" title="Fresh Retail Leg Quarter">
+	            <a href="/fresh-retail-leg-quarter" title="Fresh Retail Leg Quarter">
 	                <img src="images/samples/270x180/fresh-retail-leg-quarter-sm.jpg" alt="">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Leg Quarter</p>
-	                        <a class="more simple" href="fresh-retail-leg-quarter.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-leg-quarter" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-breast.html" title="Fresh Retail Breast">
+	            <a href="/fresh-retail-breast" title="Fresh Retail Breast">
 	                <img src="images/samples/270x180/fresh-retail-breast-sm.jpg" alt="Fresh Retail Breast">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Breast</p>
-	                        <a class="more simple" href="fresh-retail-breast.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-breast" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-braai-pack.html" title="Fresh Retail Braai Pack">
+	            <a href="/fresh-retail-braai-pack" title="Fresh Retail Braai Pack">
 	                <img src="images/samples/270x180/fresh-retail-braai-pack-sm.jpg" alt="Fresh Retail Braai Pack">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Braai Pack</p>
-	                        <a class="more simple" href="fresh-retail-braai-pack.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-braai-pack" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="retail">
-	            <a href="fresh-retail-drum-thigh.html" title="Fresh Retail Drum Thigh">
+	            <a href="/fresh-retail-drum-thigh" title="Fresh Retail Drum Thigh">
 	                <img src="images/samples/270x180/fresh-retail-drum-thigh-sm.jpg" alt="Fresh Retail Drum Thigh">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Drum Thigh</p>
-	                        <a class="more simple" href="fresh-retail-drum-thigh.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-drum-thigh" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>

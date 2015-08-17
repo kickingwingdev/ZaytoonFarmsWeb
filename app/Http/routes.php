@@ -11,12 +11,19 @@
 |
 */
 
+/*
+Main Pages
+ */
+
 get('/', 'PagesController@home');
 get('services', 'PagesController@services');
 get('products', 'PagesController@products');
 get('about', 'PagesController@about');
 get('news', 'PagesController@news');
 
+/*
+Services and Info
+ */
 
 get('food-safety', 'PagesController@serviceFoodSafety');
 get('food-safety-01', 'PagesController@serviceFoodSafety01');
@@ -26,6 +33,24 @@ get('dispatch-and-transport', 'PagesController@serviceDispatchAndTransport');
 get('quality-control', 'PagesController@serviceQualityControl');
 get('packaging', 'PagesController@servicePackaging');
 get('custom-orders', 'PagesController@serviceCustomOrders');
+
+/*
+Fresh Retail Range
+ */
+
+get('fresh-retail-whole-bird', 'PagesController@productFreshRetailWholeBird');
+get('fresh-retail-drum-6', 'PagesController@productFreshRetailDrum6');
+get('fresh-retail-drum-10', 'PagesController@productFreshRetailDrum10');
+get('fresh-retail-thigh-4', 'PagesController@productFreshRetailThigh4');
+get('fresh-retail-thigh-6', 'PagesController@productFreshRetailThigh6');
+get('fresh-retail-fillet-4', 'PagesController@productFreshRetailFillet4');
+get('fresh-retail-fillet-10', 'PagesController@productFreshRetailFillet10');
+get('fresh-retail-wing-6', 'PagesController@productFreshRetailWing6');
+get('fresh-retail-wing-12', 'PagesController@productFreshRetailWing12');
+get('fresh-retail-leg-quarter', 'PagesController@productFreshRetailLegQuarter');
+get('fresh-retail-breast', 'PagesController@productFreshRetailBreast');
+get('fresh-retail-braai-pack', 'PagesController@productFreshRetailBraaiPack');
+get('fresh-retail-drum-thigh', 'PagesController@productFreshRetailDrumThigh');
 
 
 

@@ -7,20 +7,28 @@
 	<div class="theme-page">
 	<div class="clearfix">
 	<!--PAGE CONTENT-->
-	<div class="clearfix padding-bottom-66">
-	    <div class="row margin-top-70">
-	        <div class="column column-1-1">
-	            <ul class="features-list big">
-	                <li class="sl-large-construction">
-	                    <div class="ornament"></div>
-	                    <h2 class="box-header page-margin-top">Under Construction</h2>
-	                    <p class="description">Our news blog is currently under construction and will be live soon!
-	                        <br> Please check bag regularly as we look forward to sharing the latest news on the industry.</p>
-	                </li>
-	            </ul>
-	        </div>
-	    </div>
-	</div>
+	<div class="row margin-top-70 padding-bottom-66">
+    <div class="column column-1-2">
+        <img src='images/samples/570x380/fresh-retail-leg-quarter-md.jpg' alt='Fresh Retail Leg Quarter'>
+    </div>
+    <div class="column column-1-2">
+        <h3 class="box-header">DESCRIPTION</h3>
+        <p class="description t1">Fresh Retail Chicken Leg Quarters wrapped 2 pieces in a tray.</p>
+        <h4 class="box-header page-margin-top">AT A GLANCE</h4>
+        <table class="margin-top-40">
+            <tbody>
+                <tr>
+                    <td>Product Code</td>
+                    <td>FRLQ</td>
+                </tr>
+                <tr>
+                    <td>Product Barcode</td>
+                    <td>6009880098248</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
 
 
 	<!--CONTACT BANNER-->

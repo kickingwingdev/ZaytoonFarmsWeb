@@ -73,4 +73,69 @@ class PagesController extends Controller
     {
         return view('pages.products');
     }
+
+    public function productFreshRetailWholeBird()
+    {
+        return view('pages.products.fresh-retail-whole-bird');
+    }
+
+    public function productFreshRetailDrum6()
+    {
+        return view('pages.products.fresh-retail-drum-6');
+    }
+
+    public function productFreshRetailDrum10()
+    {
+        return view('pages.products.fresh-retail-drum-10');
+    }
+
+    public function productFreshRetailThigh4()
+    {
+        return view('pages.products.fresh-retail-thigh-4');
+    }
+
+    public function productFreshRetailThigh6()
+    {
+        return view('pages.products.fresh-retail-thigh-6');
+    }
+
+    public function productFreshRetailFillet4()
+    {
+        return view('pages.products.fresh-retail-fillet-4');
+    }
+
+    public function productFreshRetailFillet10()
+    {
+        return view('pages.products.fresh-retail-fillet-10');
+    }
+
+    public function productFreshRetailWing6()
+    {
+        return view('pages.products.fresh-retail-wing-6');
+    }
+
+    public function productFreshRetailWing12()
+    {
+        return view('pages.products.fresh-retail-wing-12');
+    }
+
+    public function productFreshRetailLegQuarter()
+    {
+        return view('pages.products.fresh-retail-leg-quarter');
+    }
+
+    public function productFreshRetailBreast()
+    {
+        return view('pages.products.fresh-retail-breast');
+    }
+
+    public function productFreshRetailBraaiPack()
+    {
+        return view('pages.products.fresh-retail-braai-pack');
+    }
+
+    public function productFreshRetailDrumThigh()
+    {
+        return view('pages.products.fresh-retail-drum-thigh');
+    }
 }

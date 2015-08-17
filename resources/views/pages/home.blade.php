@@ -125,7 +125,7 @@
 	    </ul>
 	</div>
 	<div class="align-center margin-top-67">
-	    <a class="more" href="/pages/products" title="VIEW ALL SERVICES">VIEW ALL PRODUCTS</a>
+	    <a class="more" href="/products" title="VIEW ALL SERVICES">VIEW ALL PRODUCTS</a>
 	</div>
 	<!--FEATURES-->
 	<div class="row gray full-width page-margin-top-section page-padding-top-section padding-bottom-66">
