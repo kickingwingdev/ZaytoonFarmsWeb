@@ -66,6 +66,18 @@ get('fresh-added-value-skewered-winglets', 'PagesController@productFreshAddedVal
 get('fresh-added-value-deboned-whole-birds', 'PagesController@productFreshAddedValueDebonedWholeBirds');
 get('fresh-added-value-fillet-kebabs', 'PagesController@productFreshAddedValueFilletKebabs');
 
+/*
+Fresh Catering Range
+ */
+
+get('fresh-catering-fillets', 'PagesController@productFreshCateringFillets');
+get('fresh-catering-drumsticks', 'PagesController@productFreshCateringDrumsticks');
+get('fresh-catering-thighs', 'PagesController@productFreshCateringThighs');
+get('fresh-catering-breasts', 'PagesController@productFreshCateringBreasts');
+get('fresh-catering-leg-quarters', 'PagesController@productFreshCateringLegQuarters');
+get('fresh-catering-wings', 'PagesController@productFreshCateringWings');
+get('fresh-catering-braai-pack', 'PagesController@productFreshCateringBraaiPack');
+
 
 
 

@@ -184,4 +184,39 @@ class PagesController extends Controller
     {
         return view('pages.products.fresh-added-value-fillet-kebabs');
     }
+
+    public function productFreshCateringFillets()
+    {
+        return view('pages.products.fresh-catering-fillets');
+    }
+
+    public function productFreshCateringDrumsticks()
+    {
+        return view('pages.products.fresh-catering-drumsticks');
+    }
+
+    public function productFreshCateringThighs()
+    {
+        return view('pages.products.fresh-catering-thighs');
+    }
+
+    public function productFreshCateringBreasts()
+    {
+        return view('pages.products.fresh-catering-breasts');
+    }
+
+    public function productFreshCateringLegQuarters()
+    {
+        return view('pages.products.fresh-catering-leg-quarters');
+    }
+
+    public function productFreshCateringWings()
+    {
+        return view('pages.products.fresh-catering-wings');
+    }
+
+    public function productFreshCateringBraaiPack()
+    {
+        return view('pages.products.fresh-catering-braai-pack');
+    }
 }

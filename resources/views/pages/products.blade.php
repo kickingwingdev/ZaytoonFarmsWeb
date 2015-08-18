@@ -304,92 +304,92 @@
 	            </div>
 	        </li>
 	        <li class="catering">
-	            <a href="fresh-catering-fillets.html" title="Fresh Catering Fillets">
+	            <a href="/fresh-catering-fillets" title="Fresh Catering Fillets">
 	                <img src="images/samples/270x180/fresh-catering-fillets-sm.jpg" alt="Fresh Catering Fillets">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Catering Fillets</p>
-	                        <a class="more simple" href="fresh-catering-fillets.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-catering-fillets" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="catering">
-	            <a href="fresh-catering-drumsticks.html" title="Fresh Catering Drumsticks">
+	            <a href="/fresh-catering-drumsticks" title="Fresh Catering Drumsticks">
 	                <img src="images/samples/270x180/fresh-catering-drumsticks-sm.jpg" alt="Fresh Catering Drumsticks">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Catering Drumsticks</p>
-	                        <a class="more simple" href="fresh-catering-drumsticks.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-catering-drumsticks" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="catering">
-	            <a href="fresh-catering-thighs.html" title="Fresh Catering Thighs">
+	            <a href="/fresh-catering-thighs" title="Fresh Catering Thighs">
 	                <img src="images/samples/270x180/fresh-catering-thighs-sm.jpg" alt="Fresh Catering Thighs">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Catering Thighs</p>
-	                        <a class="more simple" href="fresh-catering-thighs.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-catering-thighs" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="catering">
-	            <a href="fresh-catering-breasts.html" title="Fresh Catering Breasts">
+	            <a href="/fresh-catering-breasts" title="Fresh Catering Breasts">
 	                <img src="images/samples/270x180/fresh-catering-breasts-sm.jpg" alt="Fresh Catering Breasts">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Catering Breasts</p>
-	                        <a class="more simple" href="fresh-catering-breasts.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-catering-breasts" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="catering">
-	            <a href="fresh-catering-leg-quarters.html" title="Fresh Catering Leg Quarters">
+	            <a href="/fresh-catering-leg-quarters" title="Fresh Catering Leg Quarters">
 	                <img src="images/samples/270x180/fresh-catering-leg-quarters-sm.jpg" alt="Fresh Catering Leg Quarters">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Catering Leg Quarters</p>
-	                        <a class="more simple" href="fresh-catering-leg-quarters.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-catering-leg-quarters" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="catering">
-	            <a href="fresh-catering-wings.html" title="Fresh Catering Wings">
+	            <a href="/fresh-catering-wings" title="Fresh Catering Wings">
 	                <img src="images/samples/270x180/fresh-catering-wings-sm.jpg" alt="Fresh Catering Wings">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Catering Wings</p>
-	                        <a class="more simple" href="fresh-catering-wings.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-catering-wings" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="catering">
-	            <a href="fresh-catering-braai-pack.html" title="Fresh Catering Braai Pack">
+	            <a href="/fresh-catering-braai-pack" title="Fresh Catering Braai Pack">
 	                <img src="images/samples/270x180/fresh-catering-braai-pack-sm.jpg" alt="Fresh Catering Braai Pack">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Catering Braai Pack</p>
-	                        <a class="more simple" href="fresh-catering-braai-pack.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-catering-braai-pack" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
