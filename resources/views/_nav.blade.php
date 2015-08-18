@@ -91,7 +91,7 @@
                                 <a href="/about" title="About Us">ABOUT US</a>
                             </li>
                             <li>
-                                <a href="#" title="News">NEWS</a>
+                                <a href="/news" title="News">NEWS</a>
                             </li>
                             <li>
                                 <a href="/contact" title="Contact">CONTACT</a>
