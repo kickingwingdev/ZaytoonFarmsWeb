@@ -138,4 +138,50 @@ class PagesController extends Controller
     {
         return view('pages.products.fresh-retail-drum-thigh');
     }
+
+    public function productFreshAddedValueThighKebabs()
+    {
+        return view('pages.products.fresh-added-value-thigh-kebabs');
+    }
+
+    public function productFreshAddedValueMiniKebabs()
+    {
+        return view('pages.products.fresh-added-value-mini-kebabs');
+    }
+
+    public function productFreshAddedValueBuffaloWings()
+    {
+        return view('pages.products.fresh-added-value-buffalo-wings');
+    }
+
+
+    public function productFreshAddedValueDebonedSkeweredThighs()
+    {
+        return view('pages.products.fresh-added-value-deboned-skewered-thighs');
+    }
+
+    public function productFreshAddedValueSkeweredThighs()
+    {
+        return view('pages.products.fresh-added-value-skewered-thighs');
+    }
+
+    public function productFreshAddedValueSkeweredWings()
+    {
+        return view('pages.products.fresh-added-value-skewered-wings');
+    }
+
+    public function productFreshAddedValueSkeweredWinglets()
+    {
+        return view('pages.products.fresh-added-value-skewered-winglets');
+    }
+
+    public function productFreshAddedValueDebonedWholeBirds()
+    {
+        return view('pages.products.fresh-added-value-deboned-whole-birds');
+    }
+
+    public function productFreshAddedValueFilletKebabs()
+    {
+        return view('pages.products.fresh-added-value-fillet-kebabs');
+    }
 }

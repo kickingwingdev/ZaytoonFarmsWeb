@@ -52,6 +52,19 @@ get('fresh-retail-breast', 'PagesController@productFreshRetailBreast');
 get('fresh-retail-braai-pack', 'PagesController@productFreshRetailBraaiPack');
 get('fresh-retail-drum-thigh', 'PagesController@productFreshRetailDrumThigh');
 
+/*
+Fresh Added Value Range
+ */
+
+get('fresh-added-value-thigh-kebabs', 'PagesController@productFreshAddedValueThighKebabs');
+get('fresh-added-value-mini-kebabs', 'PagesController@productFreshAddedValueMiniKebabs');
+get('fresh-added-value-buffalo-wings', 'PagesController@productFreshAddedValueBuffaloWings');
+get('fresh-added-value-deboned-skewered-thighs', 'PagesController@productFreshAddedValueDebonedSkeweredThighs');
+get('fresh-added-value-skewered-thighs', 'PagesController@productFreshAddedValueSkeweredThighs');
+get('fresh-added-value-skewered-wings', 'PagesController@productFreshAddedValueSkeweredWings');
+get('fresh-added-value-skewered-winglets', 'PagesController@productFreshAddedValueSkeweredWinglets');
+get('fresh-added-value-deboned-whole-birds', 'PagesController@productFreshAddedValueDebonedWholeBirds');
+get('fresh-added-value-fillet-kebabs', 'PagesController@productFreshAddedValueFilletKebabs');
 
 
 

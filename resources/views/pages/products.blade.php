@@ -187,118 +187,118 @@
 	            </div>
 	        </li>
 	        <li class="value">
-	            <a href="fresh-added-value-thigh-kebabs.html" title="Fresh Added Value Thigh Kebabs">
+	            <a href="/fresh-added-value-thigh-kebabs" title="Fresh Added Value Thigh Kebabs">
 	                <img src="images/samples/270x180/fresh-added-value-thigh-kebabs-sm.jpg" alt="Fresh Added Value Thigh Kebabs">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Thigh Kebabs</p>
-	                        <a class="more simple" href="fresh-added-value-thigh-kebabs.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-thigh-kebabs" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="value">
-	            <a href="fresh-added-value-mini-kebabs.html" title="Fresh Added Value Mini Kebabs">
+	            <a href="/fresh-added-value-mini-kebabs" title="Fresh Added Value Mini Kebabs">
 	                <img src="images/samples/270x180/fresh-added-value-mini-kebabs-sm.jpg" alt="Fresh Added Value Mini Kebabs">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Mini Kebabs</p>
-	                        <a class="more simple" href="fresh-added-value-mini-kebabs.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-mini-kebabs" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="value">
-	            <a href="fresh-added-value-buffalo-wings.html" title="Fresh Added Value Buffalo Wings">
+	            <a href="/fresh-added-value-buffalo-wings" title="Fresh Added Value Buffalo Wings">
 	                <img src="images/samples/270x180/fresh-added-value-buffalo-wings-sm.jpg" alt="Fresh Added Value Buffalo Wings">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Buffalo Wings</p>
-	                        <a class="more simple" href="fresh-added-value-buffalo-wings.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-buffalo-wings" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="value">
-	            <a href="fresh-added-value-deboned-skewered-thighs.html" title="Fresh Added Value Deboned Skewered Thighs">
+	            <a href="/fresh-added-value-deboned-skewered-thighs" title="Fresh Added Value Deboned Skewered Thighs">
 	                <img src="images/samples/270x180/fresh-added-value-deboned-skewered-thighs-sm.jpg" alt="Fresh Added Value Deboned Skewered Thighs">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Deboned Skewered Thighs</p>
-	                        <a class="more simple" href="fresh-added-value-deboned-skewered-thighs.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-deboned-skewered-thighs" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="value">
-	            <a href="fresh-added-value-skewered-thighs.html" title="Fresh Added Value Skewered Thighs">
+	            <a href="/fresh-added-value-skewered-thighs" title="Fresh Added Value Skewered Thighs">
 	                <img src="images/samples/270x180/fresh-added-value-skewered-thighs-sm.jpg" alt="Fresh Added Value Skewered Thighs">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Skewered Thighs</p>
-	                        <a class="more simple" href="fresh-added-value-skewered-thighs.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-skewered-thighs" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="value">
-	            <a href="fresh-added-value-skewered-wings.html" title="Fresh Added Value Skewered Wings">
+	            <a href="/fresh-added-value-skewered-wings" title="Fresh Added Value Skewered Wings">
 	                <img src="images/samples/270x180/fresh-added-value-skewered-wings-sm.jpg" alt="Fresh Added Value Skewered Wings">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Skewered Wings</p>
-	                        <a class="more simple" href="fresh-added-value-skewered-wings.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-skewered-wings" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="value">
-	            <a href="fresh-added-value-skewered-winglets.html" title="Fresh Added Value Skewered Winglets">
+	            <a href="/fresh-added-value-skewered-winglets" title="Fresh Added Value Skewered Winglets">
 	                <img src="images/samples/270x180/fresh-added-value-skewered-winglets-sm.jpg" alt="Fresh Added Value Skewered Winglets">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Skewered Winglets</p>
-	                        <a class="more simple" href="fresh-added-value-skewered-winglets.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-skewered-winglets" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="value">
-	            <a href="fresh-added-value-deboned-whole-birds.html" title="Fresh Added Value Deboned Whole Birds">
+	            <a href="/fresh-added-value-deboned-whole-birds" title="Fresh Added Value Deboned Whole Birds">
 	                <img src="images/samples/270x180/fresh-added-value-deboned-whole-birds-sm.jpg" alt="Fresh Added Value Deboned Whole Birds">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Deboned Whole Birds</p>
-	                        <a class="more simple" href="fresh-added-value-deboned-whole-birds.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-deboned-whole-birds" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="value">
-	            <a href="fresh-added-value-fillet-kebabs.html" title="Fresh Added Value Fillet Kebabs">
+	            <a href="/fresh-added-value-fillet-kebabs" title="Fresh Added Value Fillet Kebabs">
 	                <img src="images/samples/270x180/fresh-added-value-fillet-kebabs-sm.jpg" alt="Fresh Added Value Fillet Kebabs">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Fillet Kebabs</p>
-	                        <a class="more simple" href="fresh-added-value-fillet-kebabs.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-fillet-kebabs" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
