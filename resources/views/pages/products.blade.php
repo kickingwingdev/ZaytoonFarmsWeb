@@ -395,105 +395,105 @@
 	            </div>
 	        </li>
 	        <li class="giblets">
-	            <a href="fresh-retail-gizzards.html" title="Fresh Retail Gizzards">
+	            <a href="/fresh-retail-gizzards" title="Fresh Retail Gizzards">
 	                <img src="images/samples/270x180/fresh-retail-gizzards-sm.jpg" alt="Fresh Retail Gizzards">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Gizzards</p>
-	                        <a class="more simple" href="fresh-retail-gizzards.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-gizzards" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="giblets">
-	            <a href="fresh-retail-livers.html" title="Fresh Retail Livers">
+	            <a href="/fresh-retail-livers" title="Fresh Retail Livers">
 	                <img src="images/samples/270x180/fresh-retail-livers-sm.jpg" alt="Fresh Retail Livers">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Livers</p>
-	                        <a class="more simple" href="fresh-retail-livers.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-livers" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="giblets">
-	            <a href="fresh-retail-hearts.html" title="Fresh Retail Hearts">
+	            <a href="/fresh-retail-hearts" title="Fresh Retail Hearts">
 	                <img src="images/samples/270x180/fresh-retail-hearts-sm.jpg" alt="Fresh Retail Hearts">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Hearts</p>
-	                        <a class="more simple" href="fresh-retail-hearts.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-hearts" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="giblets">
-	            <a href="fresh-retail-necks.html" title="Fresh Retail Necks">
+	            <a href="/fresh-retail-necks" title="Fresh Retail Necks">
 	                <img src="images/samples/270x180/fresh-retail-necks-sm.jpg" alt="Fresh Retail Necks">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Necks</p>
-	                        <a class="more simple" href="fresh-retail-necks.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-necks" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="giblets">
-	            <a href="fresh-catering-livers.html" title="Fresh Catering Livers">
+	            <a href="/fresh-catering-livers" title="Fresh Catering Livers">
 	                <img src="images/samples/270x180/fresh-catering-livers-sm.jpg" alt="Fresh Catering Livers">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Catering Livers</p>
-	                        <a class="more simple" href="fresh-catering-livers.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-catering-livers" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="giblets">
-	            <a href="fresh-catering-hearts.html" title="Fresh Catering Hearts">
+	            <a href="/fresh-catering-hearts" title="Fresh Catering Hearts">
 	                <img src="images/samples/270x180/fresh-catering-hearts-sm.jpg" alt="Fresh Catering Hearts">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Catering Hearts</p>
-	                        <a class="more simple" href="fresh-catering-hearts.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-catering-hearts" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="giblets">
-	            <a href="fresh-catering-necks.html" title="Fresh Catering Necks">
+	            <a href="/fresh-catering-necks" title="Fresh Catering Necks">
 	                <img src="images/samples/270x180/fresh-catering-necks-sm.jpg" alt="Fresh Catering Necks">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Catering Necks</p>
-	                        <a class="more simple" href="fresh-catering-necks.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-catering-necks" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li class="giblets">
-	            <a href="fresh-catering-gizzards.html" title="Fresh Catering Gizzards">
+	            <a href="/fresh-catering-gizzards" title="Fresh Catering Gizzards">
 	                <img src="images/samples/270x180/fresh-catering-gizzards-sm.jpg" alt="Fresh Catering Gizzards">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Catering Gizzards</p>
-	                        <a class="more simple" href="fresh-catering-gizzards.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-catering-gizzards" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>

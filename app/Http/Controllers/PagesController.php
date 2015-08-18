@@ -219,4 +219,44 @@ class PagesController extends Controller
     {
         return view('pages.products.fresh-catering-braai-pack');
     }
+
+    public function productFreshRetailGizzards()
+    {
+        return view('pages.products.fresh-retail-gizzards');
+    }
+
+    public function productFreshRetailLivers()
+    {
+        return view('pages.products.fresh-retail-livers');
+    }
+
+    public function productFreshRetailHearts()
+    {
+        return view('pages.products.fresh-retail-hearts');
+    }
+
+    public function productFreshRetailNecks()
+    {
+        return view('pages.products.fresh-retail-necks');
+    }
+
+    public function productFreshCateringLivers()
+    {
+        return view('pages.products.fresh-catering-livers');
+    }
+
+    public function productFreshCateringHearts()
+    {
+        return view('pages.products.fresh-catering-hearts');
+    }
+
+    public function productFreshCateringNecks()
+    {
+        return view('pages.products.fresh-catering-necks');
+    }
+
+    public function productFreshCateringGizzards()
+    {
+        return view('pages.products.fresh-catering-gizzards');
+    }
 }

@@ -78,6 +78,18 @@ get('fresh-catering-leg-quarters', 'PagesController@productFreshCateringLegQuart
 get('fresh-catering-wings', 'PagesController@productFreshCateringWings');
 get('fresh-catering-braai-pack', 'PagesController@productFreshCateringBraaiPack');
 
+/*
+Giblets Range
+ */
+
+get('fresh-retail-gizzards', 'PagesController@productFreshRetailGizzards');
+get('fresh-retail-livers', 'PagesController@productFreshRetailLivers');
+get('fresh-retail-hearts', 'PagesController@productFreshRetailHearts');
+get('fresh-retail-necks', 'PagesController@productFreshRetailNecks');
+get('fresh-catering-livers', 'PagesController@productFreshCateringLivers');
+get('fresh-catering-hearts', 'PagesController@productFreshCateringHearts');
+get('fresh-catering-necks', 'PagesController@productFreshCateringNecks');
+get('fresh-catering-gizzards', 'PagesController@productFreshCateringGizzards');
 
 
 
