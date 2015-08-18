@@ -70,54 +70,54 @@
 	    </div>
 	    <ul class="projects-list clearfix page-margin-top">
 	        <li>
-	            <a href="fresh-added-value-fillet-kebabs.html" title="Fresh Added Value Fillet Kebabs">
+	            <a href="/fresh-added-value-fillet-kebabs" title="Fresh Added Value Fillet Kebabs">
 	                <img src="images/samples/570x380/fresh-added-value-fillet-kebabs-md.jpg" alt="Fresh Added Value Fillet Kebabs">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Fillet Kebabs</p>
-	                        <a class="more simple" href="fresh-added-value-fillet-kebabs.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-fillet-kebabs" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li>
-	            <a href="fresh-added-value-mini-kebabs.html" title="Fresh Added Value Mini Kebabs">
+	            <a href="/fresh-added-value-mini-kebabs" title="Fresh Added Value Mini Kebabs">
 	                <img src="images/samples/570x380/fresh-added-value-mini-kebabs-md.jpg" alt="Fresh Added Value Mini Kebabs">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Mini Kebabs</p>
-	                        <a class="more simple" href="fresh-added-value-mini-kebabs.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-mini-kebabs" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li>
-	            <a href="fresh-added-value-deboned-whole-birds.html" title="Fresh Added Value Deboned Whole Birds">
+	            <a href="/fresh-added-value-deboned-whole-birds" title="Fresh Added Value Deboned Whole Birds">
 	                <img src="images/samples/570x380/fresh-added-value-deboned-whole-birds-md.jpg" alt="Fresh Added Value Deboned Whole Birds">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Added Value Deboned Whole Birds</p>
-	                        <a class="more simple" href="fresh-added-value-deboned-whole-birds.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-added-value-deboned-whole-birds" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
 	        </li>
 	        <li>
 	            <!-- 480x320 Actual Image Size -->
-	            <a href="fresh-retail-drum-10.html" title="Fresh Retail Drum 10">
+	            <a href="/fresh-retail-drum-10" title="Fresh Retail Drum 10">
 	                <img src="images/samples/570x380/fresh-retail-drum-10-md.jpg" alt="Fresh Retail Drum 10">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
 	                    <div class="vertical-align-cell">
 	                        <p class="description">Fresh Retail Drum 10</p>
-	                        <a class="more simple" href="fresh-retail-drum-10.html" title="VIEW PRODUCT">VIEW PRODUCT</a>
+	                        <a class="more simple" href="/fresh-retail-drum-10" title="VIEW PRODUCT">VIEW PRODUCT</a>
 	                    </div>
 	                </div>
 	            </div>
