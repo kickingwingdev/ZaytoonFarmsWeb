@@ -2028,6 +2028,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/samples\/780x520\/service-custom-orders-md-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33856,
+		"inputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-custom-orders-md-01.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-custom-orders-md-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/samples\/780x520\/service-custom-orders-md.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31226,
+		"inputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-custom-orders-md.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-custom-orders-md.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/samples\/780x520\/service-dispatch-transport-md-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35100,
+		"inputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-dispatch-transport-md-01.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-dispatch-transport-md-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/samples\/780x520\/service-dispatch-transport-md.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2035,6 +2068,17 @@
 		"initialSize": 34669,
 		"inputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-dispatch-transport-md.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-dispatch-transport-md.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/samples\/780x520\/service-food-safety-md-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29822,
+		"inputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-food-safety-md-01.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-food-safety-md-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2050,6 +2094,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/samples\/780x520\/service-halaal-md-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31297,
+		"inputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-halaal-md-01.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-halaal-md-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/samples\/780x520\/service-halaal-md.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2057,6 +2112,50 @@
 		"initialSize": 19938,
 		"inputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-halaal-md.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-halaal-md.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/samples\/780x520\/service-packaging-md-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25514,
+		"inputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-packaging-md-01.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-packaging-md-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/samples\/780x520\/service-packaging-md.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25058,
+		"inputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-packaging-md.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-packaging-md.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/samples\/780x520\/service-quality-control-md-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33294,
+		"inputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-quality-control-md-01.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-quality-control-md-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/samples\/780x520\/service-quality-control-md.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30530,
+		"inputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-quality-control-md.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/samples\/780x520\/service-quality-control-md.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

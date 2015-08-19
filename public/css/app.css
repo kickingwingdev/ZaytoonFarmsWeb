@@ -2226,10 +2226,6 @@ div.pp_default .pp_close:hover {
   background: #F5F5F5; }
 
 /* --- slider revolution label --- */
-.slider-content-box img {
-  max-width: 70%;
-  max-height: 70%; }
-
 .slider-content-box {
   width: 460px;
   max-height: auto;
