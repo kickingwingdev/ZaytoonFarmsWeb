@@ -6,12 +6,10 @@
                 <!-- MAIN IMAGE -->
                 <img src="images/slider/zaytoon-slider-01.jpg" alt="slidebg1" data-bgfit="cover">
                 <!-- LAYERS -->
-                <!-- LAYER 01
-                <div class="tp-caption customin customout" data-x="0" data-y="140" data-customin="x:40;y:0;" data-start="500" data-speed="1200" data-easing="easeInOutExpo" data-customout="x:0;y:0;" data-endspeed="500" data-endeasing="easeInOutExpo">
+                <!--LAYER 01
+                <div class="tp-caption customin customout" data-x="0" data-y="150" data-customin="x:60;y:0;" data-start="500" data-speed="1200" data-easing="easeInOutExpo" data-customout="x:0;y:0;" data-endspeed="500" data-endeasing="easeInOutExpo">
                     <div class="slider-content-box">
-                        <h2>FOOD SAFETY</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati illo at, consectetur nam facilis amet nobis ipsa eius porro corrupti.</p>
-                        <a class="more simple" href="#" title="MORE INFO">MORE INFO</a>
+                        <img src="images/samples/780x520/slider-text-01-md.png">
                     </div>
                 </div>-->
             </li>

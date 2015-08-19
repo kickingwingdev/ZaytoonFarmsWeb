@@ -37,21 +37,21 @@
 	        <ul class="services-list clearfix page-margin-top">
 	            <li>
 	                <a href="/food-safety" title="Food Safety">
-	                    <img src="images/samples/390x260/small-sample-01.jpg" alt="">
+	                    <img src="images/samples/780x520/service-food-safety-md.jpg" alt="">
 	                </a>
 	                <h4 class="box-header"><a href="/food-safety" title="Food Safety">FOOD SAFETY</a></h4>
 	                <p>We are commited to ensuring all food safety and quality of products supplied.</p>
 	            </li>
 	            <li>
 	                <a href="/halaal" title="Halaal">
-	                    <img src="images/samples/390x260/small-sample-02.jpg" alt="">
+	                    <img src="images/samples/780x520/service-halaal-md.jpg" alt="">
 	                </a>
 	                <h4 class="box-header"><a href="/halaal" title="Halaal">HALAAL</a></h4>
 	                <p>We are commited to ensure that all products slaughtered are fully Halaal.</p>
 	            </li>
 	            <li>
 	                <a href="/dispatch-and-transport" title="Dispatch and Transport">
-	                    <img src="images/samples/390x260/small-sample-03.jpg" alt="">
+	                    <img src="images/samples/780x520/service-dispatch-transport-md.jpg" alt="">
 	                </a>
 	                <h4 class="box-header"><a href="/dispatch-and-transport" title="Dispatch and Transport">DISPATCH AND TRANSPORT</a></h4>
 	                <p>We adhere to strict guidlines in delivering our products safely and efficiently.</p>

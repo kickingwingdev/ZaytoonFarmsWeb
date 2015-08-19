@@ -2669,12 +2669,15 @@ div.pp_default .pp_close:hover
 	background: #F5F5F5;
 }
 /* --- slider revolution label --- */
+.slider-content-box img {
+	max-width: 70%;
+	max-height: 70%;
+}
 .slider-content-box
 {
 	width: 460px;
 	max-height: auto;
 	white-space: normal;
-	background: rgba(38, 38, 40, 0.7);
 	padding-bottom: 47px;
 }
 .slider-content-box h2
