@@ -15,42 +15,42 @@
 	                <img src="images/samples/780x520/service-food-safety-md-01.jpg" alt="">
 	            </a>
 	            <h4 class="box-header"><a href="/food-safety" title="Food Safety">FOOD SAFETY</a></h4>
-	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, soluta!</p
+	            <p>We are commited to ensuring all food safety and quality of products supplied.</p
 	        </li>
 	        <li>
 	            <a href="/halaal" title="Halaal">
 	                <img src="images/samples/780x520/service-halaal-md-01.jpg" alt="">
 	            </a>
 	            <h4 class="box-header"><a href="/halaal" title="Halaal">HALAAL</a></h4>
-	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, explicabo.</p
+	            <p>We are commited to ensure that all products slaughtered are fully Halaal.</p
 	        </li>
 	        <li>
 	            <a href="/dispatch-and-transport" title="Dispatch and Transport">
 	                <img src="images/samples/780x520/service-dispatch-transport-md-01.jpg" alt="">
 	            </a>
 	            <h4 class="box-header"><a href="/dispatch-and-transport" title="Dispatch and Transport">DISPATCH AND TRANSPORT</a></h4>
-	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, commodi!</p
+	            <p>We adhere to strict guidlines in delivering our products safely and efficiently.</p
 	        </li>
 	        <li>
 	            <a href="/quality-control" title="Quality Control">
 	                <img src="images/samples/780x520/service-quality-control-md-01.jpg" alt="">
 	            </a>
 	            <h4 class="box-header"><a href="/quality-control" title="Quality Control">QUALITY CONTROL</a></h4>
-	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, itaque.</p>
+	            <p>At Zaytoon we deliver only the highest quality products through stringent quality control.</p>
 	        </li>
 	        <li>
 	            <a href="/packaging" title="Packaging">
 	                <img src="images/samples/780x520/service-packaging-md-01.jpg" alt="">
 	            </a>
 	            <h4 class="box-header"><a href="/packaging" title="Packaging">PACKAGING</a></h4>
-	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, cum.</p>
+	            <p>Zaytoon provides in-house packaging in order to ensure safety and quality. </p>
 	        </li>
 	        <li>
 	            <a href="/custom-orders" title="Custom Orders">
 	                <img src="images/samples/780x520/service-custom-orders-md-01.jpg" alt="">
 	            </a>
 	            <h4 class="box-header"><a href="/custom-orders" title="Custom Orders">CUSTOM ORDERS</a></h4>
-	            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, facere.</p>
+	            <p>We do custom orders and packaging to meet your specific needs.</p>
 	        </li>
 	    </ul>
 	</div>

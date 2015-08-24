@@ -259,4 +259,10 @@ class PagesController extends Controller
     {
         return view('pages.products.fresh-catering-gizzards');
     }
+
+    public function contact()
+    {
+        return view('pages.contact');
+    }
 }
+

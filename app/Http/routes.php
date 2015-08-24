@@ -20,6 +20,7 @@ get('services', 'PagesController@services');
 get('products', 'PagesController@products');
 get('about', 'PagesController@about');
 get('news', 'PagesController@news');
+get('contact', 'PagesController@contact');
 
 /*
 Services and Info
