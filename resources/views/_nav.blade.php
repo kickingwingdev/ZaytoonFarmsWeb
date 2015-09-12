@@ -31,6 +31,9 @@
                                 <li>
                                     <a href="/packaging" title="Packaging">Packing</a>
                                 </li>
+                                <li>
+                                    <a href="/partners" title="Packaging">Partners</a>
+                                </li>
                             </ul>
                         </li>
                         <li>
@@ -69,6 +72,9 @@
                                     </li>
                                     <li>
                                         <a href="/packaging" title="Packaging">Packing</a>
+                                    </li>
+                                    <li>
+                                        <a href="/partners" title="Packaging">Partners</a>
                                     </li>
                                 </ul>
                             </li>

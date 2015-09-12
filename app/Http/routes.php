@@ -32,6 +32,7 @@ get('food-safety-02', 'PagesController@serviceFoodSafety02');
 get('halaal', 'PagesController@serviceHalaal');
 get('dispatch-and-transport', 'PagesController@serviceDispatchAndTransport');
 get('packaging', 'PagesController@servicePackaging');
+get('partners', 'PagesController@servicePartners');
 
 /*
 Fresh Retail Range

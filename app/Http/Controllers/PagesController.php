@@ -23,16 +23,6 @@ class PagesController extends Controller
     {
     	return view('pages.food-safety');
     }
-
-    public function serviceFoodSafety01()
-    {
-    	return view('pages.food-safety-01');
-    }
-
-    public function serviceFoodSafety02()
-    {
-    	return view('pages.food-safety-02');
-    }
     
     public function serviceHalaal()
     {
@@ -44,19 +34,14 @@ class PagesController extends Controller
         return view('pages.dispatch-and-transport');
     }
 
-    public function serviceQualityControl()
-    {
-        return view('pages.quality-control');
-    }
-
     public function servicePackaging()
     {
         return view('pages.packaging');
     }
 
-    public function serviceCustomOrders()
+    public function servicePartners()
     {
-        return view('pages.custom-orders');
+        return view('pages.partners');
     }
 
     public function about()

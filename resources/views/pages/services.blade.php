@@ -36,7 +36,14 @@
 	                <img src="images/samples/780x520/service-packaging-md.jpg" alt="">
 	            </a>
 	            <h4 class="box-header"><a href="/packaging" title="Packaging">PACKING</a></h4>
-	            <p>Zaytoon provides in-house packaging in order to ensure safety and quality. </p>
+	            <p>Zaytoon provides in-house packaging in order to ensure safety and quality.</p>
+	        </li>
+	        <li>
+	            <a href="/partners" title="Partners">
+	                <img src="images/samples/780x520/service-partners-md.jpg" alt="">
+	            </a>
+	            <h4 class="box-header"><a href="/packaging" title="Packaging">PARTNERS</a></h4>
+	            <p>Meet our partners.</p>
 	        </li>
 	    </ul>
 	</div>
