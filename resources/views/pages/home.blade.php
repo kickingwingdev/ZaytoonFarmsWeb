@@ -8,27 +8,7 @@
 	<div class="theme-page">
     <div class="clearfix">
 	<!--ORDER LINK-->
-	<div class="row full-width">
-	    <div class="announcement clearfix">
-	        <ul class="columns no-width">
-	            <li class="column column-3-4">
-	                <div class="vertical-align">
-	                    <div class="vertical-align-cell sl-small-list">
-	                        <h3>ORDER NOW</h3>
-	                        <p class="description">Send us a product request and we will send you a quote!</p>
-	                    </div>
-	                </div>
-	            </li>
-	            <li class="column-right column-1-4">
-	                <div class="vertical-align">
-	                    <div class="vertical-align-cell">
-	                        <a class="more" href="#" title="REQUEST A QUOTE">REQUEST A QUOTE</a>
-	                    </div>
-	                </div>
-	            </li>
-	        </ul>
-	    </div>
-	</div>
+
 	<!--SERVICES-->
 	<div class="row full-width gray page-padding-top-section">
 	    <div class="row">
@@ -37,21 +17,21 @@
 	        <ul class="services-list clearfix page-margin-top">
 	            <li>
 	                <a href="/food-safety" title="Food Safety">
-	                    <img src="images/samples/780x520/service-food-safety-md-01.jpg" alt="">
+	                    <img src="images/samples/780x520/service-food-safety-md.jpg" alt="">
 	                </a>
 	                <h4 class="box-header"><a href="/food-safety" title="Food Safety">FOOD SAFETY</a></h4>
 	                <p>We are commited to ensuring all food safety and quality of products supplied.</p>
 	            </li>
 	            <li>
 	                <a href="/halaal" title="Halaal">
-	                    <img src="images/samples/780x520/service-halaal-md-01.jpg" alt="">
+	                    <img src="images/samples/780x520/service-halaal-md.jpg" alt="">
 	                </a>
 	                <h4 class="box-header"><a href="/halaal" title="Halaal">HALAAL</a></h4>
 	                <p>We are commited to ensure that all products slaughtered are fully Halaal.</p>
 	            </li>
 	            <li>
 	                <a href="/dispatch-and-transport" title="Dispatch and Transport">
-	                    <img src="images/samples/780x520/service-dispatch-transport-md-01.jpg" alt="">
+	                    <img src="images/samples/780x520/service-dispatch-transport-md.jpg" alt="">
 	                </a>
 	                <h4 class="box-header"><a href="/dispatch-and-transport" title="Dispatch and Transport">DISPATCH AND TRANSPORT</a></h4>
 	                <p>We adhere to strict guidlines in delivering our products safely and efficiently.</p>
@@ -157,7 +137,7 @@
 	            </div>
 	            <div id="we-guarantee">
 	                <h4 class="box-header">HIGH QUALITY</h4>
-	                <p>We deliver only the highest quality chicken products that adhere to the most stringent health and safety regulations.</p>
+	                <p>We deliver only the highest quality chicken products that adhere to the most stringent food safety regulations.</p>
 	            </div>
 	            <div id="we-provide">
 	                <h4 class="box-header">TRANSPORT AND DELIVERY</h4>

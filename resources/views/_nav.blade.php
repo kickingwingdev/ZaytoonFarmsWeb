@@ -29,13 +29,7 @@
                                     <a href="/dispatch-and-transport" title="Dispatch and Transport">Dispatch and Transport</a>
                                 </li>
                                 <li>
-                                    <a href="/quality-control" title="Quality Control">Quality Control</a>
-                                </li>
-                                <li>
-                                    <a href="/packaging" title="Packaging">Packaging</a>
-                                </li>
-                                <li>
-                                    <a href="/custom-orders" title="Custom Orders">Custom Orders</a>
+                                    <a href="/packaging" title="Packaging">Packing</a>
                                 </li>
                             </ul>
                         </li>
@@ -74,13 +68,7 @@
                                         <a href="/dispatch-and-transport" title="Dispatch and Transport">Dispatch and Transport</a>
                                     </li>
                                     <li>
-                                        <a href="/quality-control" title="Quality Control">Quality Control</a>
-                                    </li>
-                                    <li>
-                                        <a href="/packaging" title="Packaging">Packaging</a>
-                                    </li>
-                                    <li>
-                                        <a href="/custom-orders" title="Custom Orders">Custom Orders</a>
+                                        <a href="/packaging" title="Packaging">Packing</a>
                                     </li>
                                 </ul>
                             </li>

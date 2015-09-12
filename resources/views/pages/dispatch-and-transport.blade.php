@@ -16,7 +16,7 @@
 	        </div>
 	        <h6 class="box-header page-margin-top">Download Brochure</h6>
 	        <ul class="buttons margin-top-30">
-	            <li class="template-arrow-circle-down">
+	            <li class="template-arrow-circle-down padding-bottom-50">
 	                <a href="#" title="Download Brochure">Coming Soon!</a>
 	            </li>
 	        </ul>
@@ -34,52 +34,6 @@
 	            <div class="column-1-1">
 	                <h3 class="box-header">DISPATCH AND TRANSPORT</h3>
 	                <p class="description t1">Zaytoon will adhere to legislation according to R962 that provides the guidelines for the dispatch and transport of products. This will ensure that the food safety process and product quality is not compromised in any way. A despatch checklist is created and will be completed for every delivery to ensure compliance in all the required issues at hand.</p>
-	                <p class="description t1">All inbound vehicles for deliveries will be inspected for cleanliness and roadworthiness. No open delivery vehicles will be permitted as meat is not permitted to be delivered in direct sunlight.</p>
-	                <p class="description t1">All vehicles will be closed body trucks fitted with refrigeration units.</p>
-	                <p class="description t1">All deliveries vehicles will have to be rain and dust proof.</p>
-	            </div>
-	        </div>
-	        <div class="row page-margin-top padding-bottom-50">
-	            <div class="column column-1-2">
-	                <h4 class="box-header">WHY CHOOSE US</h4>
-	                <p class="description t1 margin-top-34">We endeavour to bring you products and services that surpass the industry regulations and standards of quality.</p>
-	                <ul class="list margin-top-20">
-	                    <li class="template-bullet">Experience</li>
-	                    <li class="template-bullet">Industry Training</li>
-	                    <li class="template-bullet">Community Involvement</li>
-	                    <li class="template-bullet">Highest Quality</li>
-	                    <li class="template-bullet">Accredited</li>
-	                    <li class="template-bullet">Transparency</li>
-	                </ul>
-	            </div>
-	            <div class="column column-1-2">
-	                <h4 class="box-header">POPULAR QUESTIONS</h4>
-	                <ul class="accordion margin-top-40 clearfix">
-	                    <li>
-	                        <div id="accordion-1">
-	                            <h5>How are your chickens grown?</h5>
-	                        </div>
-	                        <p class="description t1">Morbi nulla tortor, degnissim at node cursus euismod est arcu. Nomad turbina uter vehicula justo magna paetos in accumsan tempus, terminal ullamcorper a quam suscipit.</p>
-	                    </li>
-	                    <li>
-	                        <div id="accordion-2">
-	                            <h5>Do your birds contain GMO's?</h5>
-	                        </div>
-	                        <p class="description t1">Morbi nulla tortor, degnissim at node cursus euismod est arcu. Nomad turbina uter vehicula justo magna paetos in accumsan tempus, terminal ullamcorper a quam suscipit.</p>
-	                    </li>
-	                    <li>
-	                        <div id="accordion-3">
-	                            <h5>Are the birds free-range?</h5>
-	                        </div>
-	                        <p class="description t1">Morbi nulla tortor, degnissim at node cursus euismod est arcu. Nomad turbina uter vehicula justo magna paetos in accumsan tempus, terminal ullamcorper a quam suscipit.</p>
-	                    </li>
-	                    <li>
-	                        <div id="accordion-4">
-	                            <h5>Is your packaging recyclable?</h5>
-	                        </div>
-	                        <p class="description t1">Morbi nulla tortor, degnissim at node cursus euismod est arcu. Nomad turbina uter vehicula justo magna paetos in accumsan tempus, terminal ullamcorper a quam suscipit.</p>
-	                    </li>
-	                </ul>
 	            </div>
 	        </div>
 	    </div>

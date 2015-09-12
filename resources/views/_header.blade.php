@@ -27,9 +27,6 @@
             <li>
                 <a target="_blank" href="#" class="social-facebook" title="facebook"></a>
             </li>
-            <li>
-                <a target="_blank" href="#" class="social-twitter" title="twitter"></a>
-            </li>
         </ul>
     </div>
     <a href="#" class="header-toggle template-arrow-up"></a>

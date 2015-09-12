@@ -7,36 +7,27 @@
                 <li>
                     <a target="_blank" href="#" class="social-facebook" title="facebook"></a>
                 </li>
-                <li>
-                    <a target="_blank" href="#" class="social-twitter" title="twitter"></a>
-                </li>
             </ul>
         </div>
         <div class="column column-1-4">
-            <h6 class="box-header">Our Services</h6>
+            <h6 class="box-header">Why Zaytoon</h6>
             <ul class="list margin-top-20">
-                <li class="template-bullet">Food Safety</li>
-                <li class="template-bullet">Halaal</li>
-                <li class="template-bullet">Dispatch and Transport</li>
-                <li class="template-bullet">Quality Control</li>
-                <li class="template-bullet">Packaging</li>
-                <li class="template-bullet">Custom Orders</li>
+                <li class="template-bullet">Experience</li>
+                <li class="template-bullet">Industry Training</li>
+                <li class="template-bullet">Community Involvement</li>
+                <li class="template-bullet">Highest Quality</li>
+                <li class="template-bullet">Accredited</li>
+                <li class="template-bullet">Transparency</li>
             </ul>
         </div>
         <div class="column column-1-4">
-            <h6 class="box-header">Categories</h6>
-            <ul class="taxonomies margin-top-30">
-                <li><a href="#" title="CHICKEN">CHICKEN</a></li>
-                <li><a href="#" title="DELIVERY">DELIVERY</a></li>
-                <li><a href="#" title="ECO">ECO</a></li>
-                <li><a href="#" title="PACKAGING">PACKAGING</a></li>
-                <li><a href="#" title="FLAVOURS">FLAVOURS</a></li>
-                <li><a href="#" title="PROCESSING">PROCESSING</a></li>
-                <li><a href="#" title="BREEDING">BREEDING</a></li>
-                <li><a href="#" title="LIFECYCLE">LIFECYCLE</a></li>
-                <li><a href="#" title="FREE RANGE">FREE RANGE</a></li>
-                <li><a href="#" title="COMMUNITY">COMMUNITY</a></li>
+            <h6 class="box-header">Certified</h6>
+            <ul class="list margin-top-20">
+                <img src="images/halaal-logo-sm.png" class="footer-logo">
             </ul>
+            
+            
+
         </div>
         <div class="column column-1-4">
             <h6 class="box-header">Latest Posts</h6>
