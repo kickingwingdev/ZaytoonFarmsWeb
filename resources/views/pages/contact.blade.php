@@ -7,21 +7,37 @@
 	<div class="theme-page">
 	<div class="clearfix">
 	<!--PAGE CONTENT-->
-	<div class="clearfix padding-bottom-66">
-	    <div class="row margin-top-70">
-	        <div class="column column-1-1">
-	            <ul class="features-list big">
-	                <li class="sl-large-construction">
-	                    <div class="ornament"></div>
-	                    <h2 class="box-header page-margin-top">Under Construction</h2>
-	                    <p class="description">We are working on a contact form in order for us to respond to your questions sooner!
-	                        <br> In the meantime, give us a call or send us a mail and we will get back to you shortly.</p>
-	                </li>
-	            </ul>
+	<div class="theme-page padding-bottom-66">
+	    <div class="clearfix">
+	        <div class="row full-width">
+	            <div class="contact-map" id="map" data-scroll-wheel="0" data-draggable="0"></div>
+	        </div>
+
+	        <div class="row page-margin-top">
+	            <form class="contact-form" id="contact-form" method="post" action="contact_form/contact_form.php">
+	                <div class="row">
+	                    <fieldset class="column column-1-2">
+	                        <input class="text-input" name="name" type="text" value="Your Name *" placeholder="Your Name *">
+	                        <input class="text-input" name="email" type="text" value="Your Email *" placeholder="Your Email *">
+	                        <input class="text-input" name="phone" type="text" value="Your Phone" placeholder="Your Phone">
+	                    </fieldset>
+	                    <fieldset class="column column-1-2">
+	                        <textarea name="message" placeholder="Message *">Message *</textarea>
+	                    </fieldset>
+	                </div>
+	                <div class="row margin-top-30">
+	                    <div class="column column-1-2">
+	                        <p class="description t1">We will contact you within one business day.</p>
+	                    </div>
+	                    <div class="column column-1-2 align-right">
+	                        <input type="hidden" name="action" value="contact_form" />
+	                        <input type="submit" name="submit" value="SEND MESSAGE" class="more active">
+	                    </div>
+	                </div>
+	            </form>
 	        </div>
 	    </div>
 	</div>
-
 
 	<!--CONTACT BANNER-->
 	<div class="row yellow full-width padding-top-bottom-30">
