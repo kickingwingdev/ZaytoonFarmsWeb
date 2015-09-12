@@ -35,6 +35,7 @@
 	                <h3 class="box-header">PACKING</h3>
 	                <p class="description t1">At Zaytoon we package all our products in-house with stringent and regualted quality control and safety meassures to ensure that you receive a fresh product with minimal handling and interference.</p>
 	                <p class="description t1">All Packaging materials are of Food Grade material.</p>
+	                <p class="description t1">We pack custom orders at your request.</p>
 	            </div>
 	        </div>
 	    </div>

@@ -15,10 +15,18 @@
 	        <h2 class="box-header align-left">WE ARE ZAYTOON</h2>
 	        <p class="description t1">Zaytoon Farms is a family and community run business that supplies only the highest quality chicken produce and products. We pride ourselves on our values of transparency and safety in farming and distributing delicious and healthy chicken products. We supply only the freshest chicken that complies to our rigorous quality control and food safety regulations.</p>
 	        <p class="description t1">We supply some of the biggest stores and distributors in the Lowveld, aiming to expand our reach and become a leader in supplying only the highest quality chicken products while enriching the lives of the local communities involved with Zaytoon.</p>
-	        <p class="description t1"> Our customers include some of Nelspruits largest food retailers such as:</p>
+	        <p class="description t1"> Our customers include some of the Lowvelds largest food retailers such as:</p>
 	        <ul class="list margin-top-20">
-	            <li class="template-bullet">Crossings Spar</li>
+	            <li class="template-bullet">Crossings Super Spar</li>
+	            <li class="template-bullet">The Grove Super Spar</li>
+	            <li class="template-bullet">Malelane Super Spar</li>
+	            <li class="template-bullet">White River Super Spar</li>
 	            <li class="template-bullet">Orchards Spar</li>
+	            <li class="template-bullet">Sonpark Spar</li>
+	            <li class="template-bullet">Tarentaal Spar</li>
+	            <li class="template-bullet">Westend Spar</li>
+	            <li class="template-bullet">Lydenburg Longtom Spar</li>
+	            <li class="template-bullet">Komati Spar</li>
 	        </ul>
 	        <div class="page-margin-top">
 	            <a class="more" href="/services" title="OUR SERVICES">MORE INFO</a>

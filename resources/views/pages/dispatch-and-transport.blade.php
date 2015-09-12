@@ -33,7 +33,8 @@
 	        <div class="row page-margin-top padding-bottom-70">
 	            <div class="column-1-1">
 	                <h3 class="box-header">DISPATCH AND TRANSPORT</h3>
-	                <p class="description t1">Zaytoon will adhere to legislation according to R962 that provides the guidelines for the dispatch and transport of products. This will ensure that the food safety process and product quality is not compromised in any way. A despatch checklist is created and will be completed for every delivery to ensure compliance in all the required issues at hand.</p>
+	                <p class="description t1">We ensure safe and timely delivery of fresh products to our resellers and suppliers.</p>
+	                <p class="description t1">Deliveries to areas outside of our normal boundries can be organised.</p>
 	            </div>
 	        </div>
 	    </div>

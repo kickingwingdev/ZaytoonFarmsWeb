@@ -23,7 +23,7 @@
         <div class="column column-1-4">
             <h6 class="box-header">Certified</h6>
             <ul class="list margin-top-20">
-                <img src="images/halaal-logo-sm.png" class="footer-logo">
+                <a href="http://www.sanha.org.za/a/index.php"><img src="images/halaal-logo-sm.png" class="footer-logo"></a>
             </ul>
             
             
@@ -31,6 +31,9 @@
         </div>
         <div class="column column-1-4">
             <h6 class="box-header">Latest Posts</h6>
+            <ul class="list margin-top-20">
+                <p class="description t1">Coming Soon!</p>
+            </ul>
             <!-- Coming Soon!
                     <ul class="blog small margin-top-30">
                         <li>
