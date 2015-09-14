@@ -30,7 +30,9 @@
 
 <body>
     <div class="site-container">
+    
         @yield('content')
+        
     </div>
     <a href="#top" class="scroll-top animated-element template-arrow-up" title="Scroll to top"></a>
     <!--SCRIPTS-->

@@ -20,7 +20,10 @@ get('services', 'PagesController@services');
 get('products', 'PagesController@products');
 get('about', 'PagesController@about');
 get('news', 'PagesController@news');
-get('contact', 'PagesController@contact');
+
+get('contact', 'ContactController@showContact');
+post('contact', 'ContactController@sendContact');
+
 
 /*
 Services and Info
@@ -90,6 +93,5 @@ get('fresh-catering-livers', 'PagesController@productFreshCateringLivers');
 get('fresh-catering-hearts', 'PagesController@productFreshCateringHearts');
 get('fresh-catering-necks', 'PagesController@productFreshCateringNecks');
 get('fresh-catering-gizzards', 'PagesController@productFreshCateringGizzards');
-
 
 
