@@ -24,17 +24,16 @@
 	    <div class="column column-3-4">
 	        <div class="row">
 	            <div class="column column-1-2">
-					<img src='images/samples/480x320/small-sample-05.jpg' alt='img'>
+					<img src='images/samples/570x380/fresh-retail-braai-pack-md.jpg' alt='img'>
 	            </div>
 	            <div class="column column-1-2">
-					<img src='images/samples/480x320/small-sample-06.jpg' alt='img'>
+					<img src='images/samples/570x380/fresh-retail-drum-6-md.jpg' alt='img'>
 	            </div>
 	        </div>
 	        <div class="row page-margin-top padding-bottom-70">
 	            <div class="column-1-1">
 	                <h3 class="box-header">PACKING</h3>
-	                <p class="description t1">At Zaytoon we package all our products in-house with stringent and regualted quality control and safety meassures to ensure that you receive a fresh product with minimal handling and interference.</p>
-	                <p class="description t1">All Packaging materials are of Food Grade material.</p>
+	                <p class="description t1">At Zaytoon we package all our products in-house with stringent and regulated quality control and safety measures to ensure that you receive a fresh product with minimal handling and interference.</p>
 	                <p class="description t1">We pack custom orders at your request.</p>
 	            </div>
 	        </div>

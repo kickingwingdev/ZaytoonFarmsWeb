@@ -36,6 +36,8 @@
 
 	                <p class="description t1">Zaytoon Farms is registered and Certified at the South African National Halaal Authority (SANHA) and would voluntarily undergo random and unannounced Halaal inspections from the SANHA.</p>
 
+	                <p class="description t1"><a href="http://www.sanha.org.za/a/index.php">www.sanha.org.za</a></p>
+
 	            </div>
 	        </div>
 	    </div>

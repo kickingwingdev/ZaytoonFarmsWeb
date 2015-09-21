@@ -2,7 +2,7 @@
     <div class="row row-4-4">
         <div class="column column-1-4">
             <h6 class="box-header">About Us</h6>
-            <p class="description t1">Zaytoon Farms was established in 2008. Located in the heart of the Lowveld, on the old Kaapsehoop and Barberton road it is ideally suited for chicken farming. We at Zaytoon grow chicks from day old up to fully grown chickens. We have a fully licensed abattoir on site. At Zaytoon we are passionate about what we do and pride ourselves on achieving the highest levels of quality and standards.</p>
+            <p class="description t1">Zaytoon Farms was established in 2008. Located in the heart of the Lowveld, on the old Kaapsehoop and Barberton road it is ideally suited for chicken farming. We at Zaytoon grow chicks from day old up to fully grown chickens. We have a fully certified abattoir on site. At Zaytoon we are passionate about what we do and pride ourselves on achieving the highest levels of quality and standards.</p>
             <ul class="social-icons yellow margin-top-26">
                 <li>
                     <a target="_blank" href="#" class="social-facebook" title="facebook"></a>

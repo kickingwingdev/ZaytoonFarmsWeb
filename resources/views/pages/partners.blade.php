@@ -24,16 +24,22 @@
 	    <div class="column column-3-4">
 	        <div class="row">
 	            <div class="column column-1-2">
-					<img src='images/samples/480x320/small-sample-05.jpg' alt='img'>
+					<img src='images/samples/480x320/partners-feed-md.jpg' alt='img'>
 	            </div>
 	            <div class="column column-1-2">
-					<img src='images/samples/480x320/small-sample-06.jpg' alt='img'>
+					<img src='images/samples/480x320/small-sample-05.jpg' alt='img'>
 	            </div>
 	        </div>
 	        <div class="row page-margin-top padding-bottom-70">
 	            <div class="column-1-1">
 	                <h3 class="box-header">Partners</h3>
-	                <p class="description t1"><a href="http://tingiraffe.co.za">www.tingiraffe.co.za</a></p>
+	                <p class="description t1"><a href="http://tingiraffe.co.za">Tin Giraffe</a></p>
+	                <p class="description t1"><a href="http://www.freddyhirsch.co.za">Freddy Hirsch</a></p>
+	                <p class="description t1"><a href="http://www.crownnational.co.za">Crown National</a></p>
+	                <p class="description t1"><a href="http://www.afgri.co.za">Afgri</a></p>
+	                <p class="description t1"><a href="#">Feed Master</a></p>
+	                <p class="description t1"><a href="http://www.abilenepoultry.co.za">Abilene Poultry</a></p>
+	                <p class="description t1"><a href="#">Lowveld Packaging</a></p>
 	            </div>
 	        </div>
 	    </div>

@@ -27,7 +27,7 @@
 	                    <img src="images/samples/780x520/service-halaal-md.jpg" alt="">
 	                </a>
 	                <h4 class="box-header"><a href="/halaal" title="Halaal">HALAAL</a></h4>
-	                <p>We are commited to ensure that all products slaughtered are fully Halaal.</p>
+	                <p>We are commited to ensure that all products are fully Halaal.</p>
 	            </li>
 	            <li>
 	                <a href="/dispatch-and-transport" title="Dispatch and Transport">
