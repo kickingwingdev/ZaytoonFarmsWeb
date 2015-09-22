@@ -9,7 +9,7 @@
         <!--PAGE CONTENT-->
         <div class="row margin-top-70 padding-bottom-66">
             <div class="column column-1-2">
-                <img src='images/samples/570x380/fresh-added-value-thigh-kebabs-md.jpg' alt='Fresh Added Value Thigh Kebabs'>
+                <img src='images/samples/570x380/fresh-added-value-fillet-kebabs-md.jpg' alt='Fresh Added Value Thigh Kebabs'>
             </div>
             <div class="column column-1-2">
                 <h3 class="box-header">DESCRIPTION</h3>

@@ -188,7 +188,7 @@
 	        </li>
 	        <li class="value">
 	            <a href="/fresh-added-value-thigh-kebabs" title="Fresh Added Value Thigh Kebabs">
-	                <img src="images/samples/270x180/fresh-added-value-thigh-kebabs-sm.jpg" alt="Fresh Added Value Thigh Kebabs">
+	                <img src="images/samples/270x180/fresh-added-value-fillet-kebabs-sm.jpg" alt="Fresh Added Value Thigh Kebabs">
 	            </a>
 	            <div class="view align-center">
 	                <div class="vertical-align-table">
