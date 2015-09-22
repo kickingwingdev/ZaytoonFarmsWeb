@@ -574,7 +574,7 @@ jQuery(document).ready(function($){
 		//google map
 		var coordinate = new google.maps.LatLng(-25.604379,30.829761);
 		var mapOptions = {
-			zoom: 16,
+			zoom: 10,
 			center: coordinate,
 			mapTypeId: google.maps.MapTypeId.ROADMAP,
 			streetViewControl: false,
