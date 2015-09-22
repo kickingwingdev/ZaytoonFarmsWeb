@@ -8,9 +8,30 @@
 	<div class="clearfix">
 	<!--PAGE CONTENT-->
 	<div class="row margin-top-70">
-	    <div class="column column-1-2 align-center re-preload">
-	        <img src="images/samples/480x480/small-about-01.jpg" alt="" class="">
-	    </div>
+		<div class="column column-1-2">
+		    <a href="images/samples/750x500/image_04.jpg" class="prettyPhoto re-preload" title="Garden Renovation">
+		        <img src='images/samples/570x380/about-us-01.jpg' alt='img'>
+		    </a>
+		    <div class="row margin-top-30">
+		        <div class="column column-1-2">
+		            <a href="images/samples/750x500/image_05.jpg" class="prettyPhoto re-preload" title="Garden Renovation">
+		                <img src='images/samples/570x380/about-us-02.jpg' alt='img'>
+		            </a>
+		        </div>
+		        <div class="column column-1-2">
+		            <a href="images/samples/750x500/image_01.jpg" class="prettyPhoto re-preload" title="Garden Renovation">
+		                <img src='images/samples/570x380/about-us-03.jpg' alt='img'>
+		            </a>
+		        </div>
+		    </div>
+		    <div class="row margin-top-30">
+		        <a href="images/samples/750x500/image_10.jpg" class="prettyPhoto re-preload" title="Garden Renovation">
+		            <img src='images/samples/570x380/about-us-04.jpg' alt='img'>
+		        </a>
+		    </div>
+		</div>
+
+
 	    <div class="column column-1-2">
 	        <h2 class="box-header align-left">WE ARE ZAYTOON</h2>
 	        <p class="description t1">Zaytoon Farms is a family and community run business that supplies only the highest quality chicken produce and products. We pride ourselves on our values of transparency and safety in farming and distributing delicious and healthy chicken products. We supply only the freshest chicken that complies to our rigorous quality control and food safety regulations.</p>

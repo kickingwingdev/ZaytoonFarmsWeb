@@ -2,7 +2,7 @@
     <div class="vertical-align-table column-1-1">
         <div class="header clearfix">
             <div class="logo vertical-align-cell">
-                <img class="logo-top" src="images/zaytoon-logo.png" alt="">
+                <img class="logo-top" src="images/zaytoon-logo-lg.png" alt="">
             </div>
             <a href="#" class="mobile-menu-switch vertical-align-cell">
                 <span class="line"></span>
