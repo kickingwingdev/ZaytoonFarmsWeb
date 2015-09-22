@@ -7,7 +7,7 @@
 	<div class="theme-page">
 	<div class="clearfix">
 	<!--PAGE CONTENT-->
-	<div class="theme-page padding-bottom-66">
+	<div class="theme-page">
 	    <div class="clearfix">
 	        <div class="row full-width">
 	            <div class="contact-map" id="map" data-scroll-wheel="0" data-draggable="0"></div>
